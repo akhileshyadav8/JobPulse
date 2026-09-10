@@ -1,0 +1,45 @@
+name: Automatic Real-Time Job Discovery & Sync
+
+on:
+  schedule:
+    # Runs every 6 hours automatically (00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions UI anytime
+
+jobs:
+  sync-jobs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install sqlalchemy psycopg2-binary python-dotenv requests
+
+      - name: Run Real-Time Job Ingestion from ATS APIs
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: |
+          python backend/scripts/sync_real_production_jobs.py
+
+      - name: Commit and Push Updated Job Data
+        run: |
+          git config --global user.name "JobPulse Bot"
+          git config --global user.email "bot@jobpulse.internal"
+          git add frontend/src/lib/real_jobs.json
+          if git diff --staged --quiet; then
+            echo "No new job updates to commit."
+          else
+            git commit -m "Auto-sync latest job postings from official ATS portals [skip ci]"
+            git push
+          fi
