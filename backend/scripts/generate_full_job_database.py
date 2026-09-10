@@ -120,7 +120,7 @@ STUDY_RESOURCES = [
 generated_jobs = []
 job_id = 1
 
-# We will generate 900+ jobs across companies and roles to match Jobdexo's catalog
+# We will generate 900+ jobs across companies and roles for comprehensive coverage
 target_total = 920
 
 # Spread minutes ago from 10 minutes to 29 days (within last 1 month)
@@ -167,7 +167,7 @@ while len(generated_jobs) < target_total:
 
     posted_dt = now - timedelta(minutes=mins_ago)
     
-    # Deadlines like Jobdexo (e.g. 25 Sep 2026, 30 Sep 2026, 15 Oct 2026)
+    # Typical application deadlines (e.g. 25 Sep 2026, 30 Sep 2026, 15 Oct 2026)
     days_left = random.choice([5, 12, 18, 25, 30, 45, 60])
     deadline_dt = now + timedelta(days=days_left)
 

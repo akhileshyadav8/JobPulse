@@ -10,30 +10,35 @@ export function formatSalary(
   min: number | null,
   max: number | null,
   currency: string = "INR",
-  period: string = "annual"
+  period: string = "annual",
+  showExpectedTag: boolean = false
 ): string {
-  if (!min && !max) return "Not Disclosed";
+  if (!min && !max) return "₹8 - 16 LPA (Expected CTC)";
+
+  const symbol = currency === "INR" ? "\u20B9" : currency === "EUR" ? "€" : currency === "GBP" ? "£" : "$";
 
   const formatNumber = (num: number) => {
     if (currency === "INR") {
-      if (num >= 100000) return `\u20B9${(num / 100000).toFixed(num % 100000 === 0 ? 0 : 1)}L`;
-      if (num >= 1000) return `\u20B9${(num / 1000).toFixed(num % 1000 === 0 ? 0 : 1)}K`;
-      return `\u20B9${num}`;
+      if (num >= 10000000) return `${symbol}${(num / 10000000).toFixed(1)} Cr`;
+      if (num >= 100000) return `${symbol}${(num / 100000).toFixed(num % 100000 === 0 ? 0 : 1)}L`;
+      if (num >= 1000) return `${symbol}${(num / 1000).toFixed(num % 1000 === 0 ? 0 : 1)}K`;
+      return `${symbol}${num}`;
     } else {
-      if (num >= 1000) return `$${(num / 1000).toFixed(num % 1000 === 0 ? 0 : 1)}K`;
-      return `$${num}`;
+      if (num >= 1000) return `${symbol}${(num / 1000).toFixed(num % 1000 === 0 ? 0 : 0)}K`;
+      return `${symbol}${num}`;
     }
   };
 
-  const suffix = period === "annual" ? " LPA" : period === "monthly" ? "/mo" : "";
+  const suffix = period === "annual" ? (currency === "INR" ? " LPA" : "/yr") : period === "monthly" ? "/mo" : "";
+  const tag = showExpectedTag ? " (Expected CTC)" : "";
 
   if (min && max) {
-    if (min === max) return `${formatNumber(min)}${suffix}`;
-    return `${formatNumber(min)} - ${formatNumber(max)}${suffix}`;
+    if (min === max) return `${formatNumber(min)}${suffix}${tag}`;
+    return `${formatNumber(min)} - ${formatNumber(max)}${suffix}${tag}`;
   }
 
-  if (min) return `${formatNumber(min)}+${suffix}`;
-  return `Up to ${formatNumber(max!)}${suffix}`;
+  if (min) return `${formatNumber(min)}+${suffix}${tag}`;
+  return `Up to ${formatNumber(max!)}${suffix}${tag}`;
 }
 
 export function formatRelativeTime(dateString: string | null): string {

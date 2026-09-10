@@ -1,6 +1,6 @@
 # JobPulse — Near Real-Time Official Job Discovery Engine
 
-> A high-performance, official ATS-first job discovery engine that monitors company career portals, detects new job postings within minutes, extracts structured data, and publishes rich Jobdexo-style listings with salary insights, interview breakdowns, and free study materials.
+> A high-performance, official ATS-first job discovery engine that monitors company career portals, detects new job postings within minutes, extracts structured data, and publishes rich listings with salary insights, interview breakdowns, and free study materials.
 
 ---
 
@@ -10,7 +10,7 @@
 - **Zero-Delay Publishing**: Incremental change detection via SHA256 content hashes detects new, updated, and removed roles automatically.
 - **100% Direct Official Apply Links**: No middlemen or dead third-party redirects — applies directly on the employer's official ATS.
 - **Structured AI Extraction**: Normalizes messy job descriptions into structured data (salary ranges, tech stacks, experience levels, batch eligibility 2024–2026).
-- **Candidate Prep Ecosystem (Jobdexo-Style)**:
+- **Candidate Prep Ecosystem**:
   - Round-by-round **Selection Process**
   - Real **Interview Experience** insights
   - Verified **Work Culture** summaries

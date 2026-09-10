@@ -1,4 +1,4 @@
-﻿import { MapPin, Calendar, Building2 } from "lucide-react";
+import { MapPin, Calendar, Building2 } from "lucide-react";
 import { Job } from "@/lib/api";
 import { Badge } from "@/components/ui/badge";
 import { formatSalary, getEmploymentTypeColor, getWorkModeColor, formatDate } from "@/lib/utils";
@@ -33,8 +33,8 @@ export function JobHero({ job }: { job: Job }) {
           <div className="flex items-center gap-3">
             <div className="text-2xl">💰</div>
             <div>
-              <div className="text-xs text-teal-100/70 uppercase tracking-wider">Salary</div>
-              <div className="font-semibold">{formatSalary(job.salary_min, job.salary_max, job.salary_currency, job.salary_period)}</div>
+              <div className="text-xs text-teal-100/70 uppercase tracking-wider">Expected CTC / Salary</div>
+              <div className="font-semibold">{formatSalary(job.salary_min, job.salary_max, job.salary_currency, job.salary_period, true)}</div>
             </div>
           </div>
           
@@ -50,7 +50,7 @@ export function JobHero({ job }: { job: Job }) {
             <div className="text-xl bg-white/10 p-2 rounded-full"><Calendar className="w-5 h-5" /></div>
             <div>
               <div className="text-xs text-teal-100/70 uppercase tracking-wider">Deadline</div>
-              <div className="font-semibold">{job.deadline ? formatDate(job.deadline) : 'Not Specified'}</div>
+              <div className="font-semibold">{job.deadline ? formatDate(job.deadline) : '🔥 Apply ASAP (Rolling Hiring)'}</div>
             </div>
           </div>
         </div>

@@ -15,6 +15,8 @@ export interface Job {
   salary_max: number | null;
   salary_currency: string;
   salary_period: string;
+  salary_basis?: string | null;
+  is_salary_estimated?: boolean | null;
   experience_min: number | null;
   experience_max: number | null;
   education: string | null;

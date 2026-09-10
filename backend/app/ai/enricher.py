@@ -31,7 +31,7 @@ async def async_enrich_job(job_id: int):
             return
 
         prompt = f"""
-        Act as Jobdexo and provide an enrichment summary for the following job.
+        Act as an expert technical career advisor and provide an enrichment summary for the following job.
         Company: {job.company.name}
         Job Title: {job.title}
         Description:

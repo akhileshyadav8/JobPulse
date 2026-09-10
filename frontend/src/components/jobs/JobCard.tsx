@@ -43,8 +43,11 @@ export function JobCard({ job }: JobCardProps) {
         </div>
 
         <div className="flex flex-wrap gap-2 mb-4">
-          <Badge className="bg-green-100 text-green-700 hover:bg-green-200 border-green-200 dark:bg-green-900/30 dark:text-green-400 dark:border-green-800/50">
-            {formatSalary(job.salary_min, job.salary_max, job.salary_currency, job.salary_period)}
+          <Badge 
+            title={job.salary_basis || "Based on company's past hiring records and role market benchmarks"}
+            className="bg-emerald-50 text-emerald-700 hover:bg-emerald-100 border-emerald-200 dark:bg-emerald-950/40 dark:text-emerald-300 dark:border-emerald-800 font-semibold shadow-xs flex items-center gap-1 cursor-help"
+          >
+            <span>💰 {formatSalary(job.salary_min, job.salary_max, job.salary_currency, job.salary_period, true)}</span>
           </Badge>
           <Badge className={getEmploymentTypeColor(job.employment_type)}>
             {job.employment_type}

@@ -14,6 +14,44 @@ const FILTER_CONFIG = {
   "Work Mode": ["All", "Remote", "Hybrid", "Onsite"]
 };
 
+const INDIA_LOC_KEYWORDS = [
+  "india", "bengaluru", "bangalore", "blr", "pune", "hyderabad", "hyd",
+  "mumbai", "bombay", "delhi", "new delhi", "ncr", "noida", "gurgaon", "gurugram",
+  "chennai", "madras", "kolkata", "calcutta", "ahmedabad", "jaipur", "chandigarh",
+  "mohali", "kochi", "cochin", "kerala", "trivandrum", "thiruvananthapuram",
+  "indore", "coimbatore", "nagpur", "bhubaneswar", "mysuru", "mysore",
+  "karnataka", "maharashtra", "tamil nadu", "telangana", "andhra pradesh", "gujarat",
+  "rajasthan", "uttar pradesh", "haryana", "lucknow", "kanpur", "pan-india"
+];
+
+const US_LOC_KEYWORDS = [
+  "united states", "usa", "u.s.", "san francisco", "sf", "new york", "nyc",
+  "seattle", "austin", "chicago", "boston", "los angeles", "california",
+  "texas", "washington", "colorado", "denver", "atlanta", "philadelphia",
+  "miami", "san jose", "sunnyvale", "mountain view", "menlo park", "palo alto",
+  "remote - us", "us remote", "us - remote"
+];
+
+const UK_LOC_KEYWORDS = [
+  "united kingdom", "uk", "u.k.", "london", "manchester", "edinburgh", "bristol", "birmingham", "glasgow"
+];
+
+const GERMANY_LOC_KEYWORDS = [
+  "germany", "deutschland", "berlin", "munich", "münchen", "frankfurt", "hamburg", "cologne"
+];
+
+const CANADA_LOC_KEYWORDS = [
+  "canada", "toronto", "vancouver", "montreal", "ottawa", "calgary", "waterloo"
+];
+
+const IRELAND_LOC_KEYWORDS = [
+  "ireland", "dublin", "cork", "galway", "limerick"
+];
+
+const AUSTRALIA_LOC_KEYWORDS = [
+  "australia", "sydney", "melbourne", "brisbane", "perth", "canberra"
+];
+
 interface InteractiveJobFeedProps {
   initialJobs: Job[];
   stats: OverviewStats;
@@ -192,29 +230,47 @@ export function InteractiveJobFeed({ initialJobs, stats }: InteractiveJobFeedPro
       if (selectedCountry !== "All") {
         const country = selectedCountry.toLowerCase();
         if (country === "india") {
-          const isIndia = job.location.some(l => 
-            l.toLowerCase().includes("india") || 
-            l.toLowerCase().includes("bengaluru") || 
-            l.toLowerCase().includes("bangalore") || 
-            l.toLowerCase().includes("pune") || 
-            l.toLowerCase().includes("hyderabad") || 
-            l.toLowerCase().includes("mumbai") || 
-            l.toLowerCase().includes("chennai") || 
-            l.toLowerCase().includes("delhi") || 
-            l.toLowerCase().includes("noida") || 
-            l.toLowerCase().includes("gurgaon")
-          );
-          if (!isIndia && (job.work_mode || "").toLowerCase() !== "remote") return false;
+          const isIndia = job.location.some(l => {
+            const loc = l.toLowerCase();
+            return INDIA_LOC_KEYWORDS.some(k => loc.includes(k));
+          });
+          if (!isIndia) return false;
         } else if (country === "united states") {
-          const isUS = job.location.some(l => 
-            l.toLowerCase().includes("united states") || 
-            l.toLowerCase().includes("usa") || 
-            l.toLowerCase().includes("san francisco") || 
-            l.toLowerCase().includes("new york") || 
-            l.toLowerCase().includes("seattle") || 
-            l.toLowerCase().includes("austin")
-          );
-          if (!isUS && (job.work_mode || "").toLowerCase() !== "remote") return false;
+          const isUS = job.location.some(l => {
+            const loc = l.toLowerCase();
+            return US_LOC_KEYWORDS.some(k => loc.includes(k));
+          });
+          if (!isUS) return false;
+        } else if (country === "united kingdom") {
+          const isUK = job.location.some(l => {
+            const loc = l.toLowerCase();
+            return UK_LOC_KEYWORDS.some(k => loc.includes(k));
+          });
+          if (!isUK) return false;
+        } else if (country === "germany") {
+          const isDE = job.location.some(l => {
+            const loc = l.toLowerCase();
+            return GERMANY_LOC_KEYWORDS.some(k => loc.includes(k));
+          });
+          if (!isDE) return false;
+        } else if (country === "canada") {
+          const isCA = job.location.some(l => {
+            const loc = l.toLowerCase();
+            return CANADA_LOC_KEYWORDS.some(k => loc.includes(k));
+          });
+          if (!isCA) return false;
+        } else if (country === "ireland") {
+          const isIE = job.location.some(l => {
+            const loc = l.toLowerCase();
+            return IRELAND_LOC_KEYWORDS.some(k => loc.includes(k));
+          });
+          if (!isIE) return false;
+        } else if (country === "australia") {
+          const isAU = job.location.some(l => {
+            const loc = l.toLowerCase();
+            return AUSTRALIA_LOC_KEYWORDS.some(k => loc.includes(k));
+          });
+          if (!isAU) return false;
         } else if (country === "remote") {
           const isRemote = (job.work_mode || "").toLowerCase() === "remote" || job.location.some(l => l.toLowerCase().includes("remote"));
           if (!isRemote) return false;
@@ -232,6 +288,22 @@ export function InteractiveJobFeed({ initialJobs, stats }: InteractiveJobFeedPro
         const stateCityValues = (STATE_CITIES[selectedCountry]?.[selectedState] || [])
           .map(c => c.value.toLowerCase())
           .filter(v => v !== "all");
+
+        if (stateLower === "delhi" || stateLower === "delhi ncr") {
+          stateCityValues.push("delhi", "new delhi", "noida", "gurgaon", "gurugram", "faridabad", "ghaziabad", "ncr");
+        } else if (stateLower === "karnataka") {
+          stateCityValues.push("bengaluru", "bangalore", "blr", "mysuru", "mysore", "mangalore", "hubli", "belgaum");
+        } else if (stateLower === "maharashtra") {
+          stateCityValues.push("mumbai", "bombay", "pune", "nagpur", "nashik", "aurangabad", "thane", "navi mumbai");
+        } else if (stateLower === "haryana") {
+          stateCityValues.push("gurgaon", "gurugram", "faridabad", "panchkula", "ambala");
+        } else if (stateLower === "uttar pradesh") {
+          stateCityValues.push("noida", "greater noida", "lucknow", "kanpur", "varanasi", "agra", "ghaziabad");
+        } else if (stateLower === "telangana") {
+          stateCityValues.push("hyderabad", "secunderabad", "warangal");
+        } else if (stateLower === "tamil nadu") {
+          stateCityValues.push("chennai", "madras", "coimbatore", "madurai", "trichy");
+        }
 
         const stateMatches = job.location.some(l => {
           const locLower = l.toLowerCase();
@@ -257,7 +329,17 @@ export function InteractiveJobFeed({ initialJobs, stats }: InteractiveJobFeedPro
         } else if (targetCity === "delhi") {
           cityMatch = job.location.some(l => {
             const loc = l.toLowerCase();
-            return loc.includes("delhi") || loc.includes("noida") || loc.includes("gurgaon") || loc.includes("gurugram") || loc.includes("ncr");
+            return loc.includes("delhi") || loc.includes("new delhi") || loc.includes("noida") || loc.includes("gurgaon") || loc.includes("gurugram") || loc.includes("ncr");
+          });
+        } else if (targetCity === "gurgaon" || targetCity === "gurugram") {
+          cityMatch = job.location.some(l => {
+            const loc = l.toLowerCase();
+            return loc.includes("gurgaon") || loc.includes("gurugram");
+          });
+        } else if (targetCity === "noida") {
+          cityMatch = job.location.some(l => {
+            const loc = l.toLowerCase();
+            return loc.includes("noida");
           });
         } else if (targetCity === "mumbai") {
           cityMatch = job.location.some(l => {
@@ -267,9 +349,22 @@ export function InteractiveJobFeed({ initialJobs, stats }: InteractiveJobFeedPro
         } else if (targetCity === "pune") {
           cityMatch = job.location.some(l => l.toLowerCase().includes("pune"));
         } else if (targetCity === "hyderabad") {
-          cityMatch = job.location.some(l => l.toLowerCase().includes("hyderabad") || l.toLowerCase().includes("secunderabad"));
+          cityMatch = job.location.some(l => {
+            const loc = l.toLowerCase();
+            return loc.includes("hyderabad") || loc.includes("secunderabad");
+          });
+        } else if (targetCity === "chennai") {
+          cityMatch = job.location.some(l => {
+            const loc = l.toLowerCase();
+            return loc.includes("chennai") || loc.includes("madras");
+          });
+        } else if (targetCity === "kolkata") {
+          cityMatch = job.location.some(l => {
+            const loc = l.toLowerCase();
+            return loc.includes("kolkata") || loc.includes("calcutta");
+          });
         } else if (targetCity === "remote") {
-          cityMatch = (job.work_mode || "").toLowerCase() === "remote" || job.location.some(l => l.toLowerCase().includes("remote"));
+          cityMatch = (job.work_mode || "").toLowerCase() === "remote" || job.location.some(l => l.toLowerCase().includes("remote") || l.toLowerCase().includes("pan-india"));
         } else {
           cityMatch = job.location.some(l => l.toLowerCase().includes(targetCity)) ||
                       ((job as any).city && (job as any).city.toLowerCase().includes(targetCity));

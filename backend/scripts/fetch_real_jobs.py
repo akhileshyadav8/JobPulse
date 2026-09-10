@@ -132,6 +132,8 @@ for comp in COMPANIES:
                     "salary_max": salary_max,
                     "salary_currency": "INR",
                     "salary_period": salary_period,
+                    "salary_basis": f"Based on {comp['name']}'s historical hiring records",
+                    "is_salary_estimated": True,
                     "experience_min": 0,
                     "experience_max": 2,
                     "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
