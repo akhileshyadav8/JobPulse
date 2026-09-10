@@ -90,9 +90,9 @@ export function JobCard({ job }: JobCardProps) {
       </CardContent>
       
       <CardFooter className="p-5 pt-0 mt-auto flex items-center justify-between border-t border-slate-100 dark:border-slate-800 pt-4">
-        <div className="flex items-center text-xs text-slate-500 dark:text-slate-400">
+        <div className="flex items-center text-xs text-slate-500 dark:text-slate-400" suppressHydrationWarning>
           <Clock className="w-3.5 h-3.5 mr-1" />
-          {formatRelativeTime(job.posted_at || job.first_seen_at)}
+          <span suppressHydrationWarning>{formatRelativeTime(job.posted_at || job.first_seen_at)}</span>
         </div>
         <div className="flex gap-2">
           <Link
