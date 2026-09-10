@@ -224,25 +224,50 @@ export function InteractiveJobFeed({ initialJobs, stats }: InteractiveJobFeedPro
         }
       }
 
-      // State Filter
+      // State Filter (Smart Mapping: check state name OR any city known to belong to this state)
       if (selectedState !== "All") {
         const stateLower = selectedState.toLowerCase();
-        const stateMatches = job.location.some(l => l.toLowerCase().includes(stateLower)) ||
-                             ((job as any).state && (job as any).state.toLowerCase().includes(stateLower));
+        
+        // Find cities belonging to this state from STATE_CITIES
+        const stateCityValues = (STATE_CITIES[selectedCountry]?.[selectedState] || [])
+          .map(c => c.value.toLowerCase())
+          .filter(v => v !== "all");
+
+        const stateMatches = job.location.some(l => {
+          const locLower = l.toLowerCase();
+          if (locLower.includes(stateLower)) return true;
+          return stateCityValues.some(cityVal => locLower.includes(cityVal));
+        }) || ((job as any).state && (job as any).state.toLowerCase().includes(stateLower));
+
         if (!stateMatches) {
           return false;
         }
       }
 
-      // City Filter
+      // City Filter (Smart Synonyms: e.g. Bengaluru/Bangalore, Delhi/Noida/Gurgaon)
       if (selectedCity !== "All") {
         const targetCity = selectedCity.toLowerCase();
         let cityMatch = false;
 
         if (targetCity === "bengaluru" || targetCity === "bangalore") {
-          cityMatch = job.location.some(l => l.toLowerCase().includes("bengaluru") || l.toLowerCase().includes("bangalore"));
+          cityMatch = job.location.some(l => {
+            const loc = l.toLowerCase();
+            return loc.includes("bengaluru") || loc.includes("bangalore") || loc.includes("blr");
+          });
         } else if (targetCity === "delhi") {
-          cityMatch = job.location.some(l => l.toLowerCase().includes("delhi") || l.toLowerCase().includes("noida") || l.toLowerCase().includes("gurgaon"));
+          cityMatch = job.location.some(l => {
+            const loc = l.toLowerCase();
+            return loc.includes("delhi") || loc.includes("noida") || loc.includes("gurgaon") || loc.includes("gurugram") || loc.includes("ncr");
+          });
+        } else if (targetCity === "mumbai") {
+          cityMatch = job.location.some(l => {
+            const loc = l.toLowerCase();
+            return loc.includes("mumbai") || loc.includes("bombay") || loc.includes("thane") || loc.includes("navi mumbai");
+          });
+        } else if (targetCity === "pune") {
+          cityMatch = job.location.some(l => l.toLowerCase().includes("pune"));
+        } else if (targetCity === "hyderabad") {
+          cityMatch = job.location.some(l => l.toLowerCase().includes("hyderabad") || l.toLowerCase().includes("secunderabad"));
         } else if (targetCity === "remote") {
           cityMatch = (job.work_mode || "").toLowerCase() === "remote" || job.location.some(l => l.toLowerCase().includes("remote"));
         } else {

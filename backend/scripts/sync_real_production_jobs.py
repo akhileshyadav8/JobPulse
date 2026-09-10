@@ -38,16 +38,27 @@ HEADERS = {
 }
 
 GREENHOUSE_COMPANIES = [
+    {"slug": "inmobi", "name": "InMobi", "industry": "Mobile Advertising & AdTech", "hq": "Bengaluru, India"},
+    {"slug": "thoughtworks", "name": "Thoughtworks", "industry": "Global Software Consultancy", "hq": "Bengaluru / Pune / Hyderabad"},
+    {"slug": "druva", "name": "Druva", "industry": "Cloud Data Protection & Cyber Resilience", "hq": "Pune / Bengaluru, India"},
+    {"slug": "mongodb", "name": "MongoDB", "industry": "Modern Developer Data Platform", "hq": "Bengaluru / Gurugram / Global"},
+    {"slug": "databricks", "name": "Databricks", "industry": "Data Intelligence & AI Platform", "hq": "Bengaluru / Global"},
+    {"slug": "coinbase", "name": "Coinbase", "industry": "Crypto Economy & Financial Platform", "hq": "Bengaluru / Remote / Global"},
+    {"slug": "airbnb", "name": "Airbnb", "industry": "Online Travel & Hospitality Tech", "hq": "Global / Remote"},
+    {"slug": "pinterest", "name": "Pinterest", "industry": "Visual Discovery & Social Platform", "hq": "Global / Remote"},
+    {"slug": "datadog", "name": "Datadog", "industry": "Cloud Observability & Security", "hq": "Global / Remote"},
+    {"slug": "okta", "name": "Okta", "industry": "Identity & Access Management", "hq": "Bengaluru / Global"},
+    {"slug": "twilio", "name": "Twilio", "industry": "Customer Engagement & Cloud Comms", "hq": "Bengaluru / Global"},
+    {"slug": "postman", "name": "Postman", "industry": "API Development Platform", "hq": "San Francisco / Bengaluru"},
+    {"slug": "groww", "name": "Groww", "industry": "Fintech & Wealth Creation", "hq": "Bengaluru, India"},
     {"slug": "stripe", "name": "Stripe", "industry": "Financial Infrastructure & Payments", "hq": "San Francisco / Global"},
-    {"slug": "elastic", "name": "Elastic", "industry": "Search & Data Analytics", "hq": "Mountain View / Global Remote"},
+    {"slug": "elastic", "name": "Elastic", "industry": "Search & Data Analytics", "hq": "Mountain View / Bengaluru"},
     {"slug": "gitlab", "name": "GitLab", "industry": "DevSecOps & Cloud Software", "hq": "All-Remote (Global)"},
     {"slug": "figma", "name": "Figma", "industry": "Design & Collaboration", "hq": "San Francisco / New York"},
     {"slug": "rubrik", "name": "Rubrik", "industry": "Zero Trust Data Security", "hq": "Palo Alto / Bengaluru"},
     {"slug": "robinhood", "name": "Robinhood", "industry": "Fintech & Stock Trading", "hq": "Menlo Park / Global"},
     {"slug": "gusto", "name": "Gusto", "industry": "Payroll & HR Technology", "hq": "San Francisco / Denver"},
-    {"slug": "postman", "name": "Postman", "industry": "API Development Platform", "hq": "San Francisco / Bengaluru"},
-    {"slug": "discord", "name": "Discord", "industry": "Communications & Gaming", "hq": "San Francisco / Remote"},
-    {"slug": "groww", "name": "Groww", "industry": "Fintech & Wealth Creation", "hq": "Bengaluru, India"}
+    {"slug": "discord", "name": "Discord", "industry": "Communications & Gaming", "hq": "San Francisco / Remote"}
 ]
 
 LEVER_COMPANIES = [
@@ -268,35 +279,23 @@ def main():
     all_real_jobs = []
     frontend_json = Path(__file__).resolve().parent.parent.parent / "frontend" / "src" / "lib" / "real_jobs.json"
 
-    # Check if we already have the real jobs pre-fetched
-    if frontend_json.exists():
-        try:
-            with open(frontend_json, "r", encoding="utf-8") as f:
-                cached = json.load(f)
-                if len(cached) >= 2000:
-                    print(f"[+] Found {len(cached)} pre-fetched 100% real live jobs in {frontend_json.name}!", flush=True)
-                    all_real_jobs = cached
-        except Exception:
-            pass
+    # 1. Fetch Greenhouse
+    for comp in GREENHOUSE_COMPANIES:
+        all_real_jobs.extend(fetch_greenhouse_jobs(comp))
 
-    if not all_real_jobs:
-        # 1. Fetch Greenhouse
-        for comp in GREENHOUSE_COMPANIES:
-            all_real_jobs.extend(fetch_greenhouse_jobs(comp))
+    # 2. Fetch Lever
+    for comp in LEVER_COMPANIES:
+        all_real_jobs.extend(fetch_lever_jobs(comp))
 
-        # 2. Fetch Lever
-        for comp in LEVER_COMPANIES:
-            all_real_jobs.extend(fetch_lever_jobs(comp))
+    # 3. Fetch Arbeitnow (Global)
+    all_real_jobs.extend(fetch_arbeitnow_jobs())
 
-        # 3. Fetch Arbeitnow (Global)
-        all_real_jobs.extend(fetch_arbeitnow_jobs())
+    # Sort by posted_at descending
+    all_real_jobs.sort(key=lambda j: j.get("posted_at", ""), reverse=True)
 
-        # Sort by posted_at descending
-        all_real_jobs.sort(key=lambda j: j.get("posted_at", ""), reverse=True)
-
-        with open(frontend_json, "w", encoding="utf-8") as f:
-            json.dump(all_real_jobs, f, indent=2, ensure_ascii=False)
-        print(f"[+] Saved {len(all_real_jobs)} real jobs to {frontend_json.name}", flush=True)
+    with open(frontend_json, "w", encoding="utf-8") as f:
+        json.dump(all_real_jobs, f, indent=2, ensure_ascii=False)
+    print(f"[+] Saved {len(all_real_jobs)} real jobs to {frontend_json.name}", flush=True)
 
     # 5. Connect to Supabase & Replace old synthetic jobs
     db_pass = quote_plus("MyJobPulse@2026#")
