@@ -1,0 +1,653 @@
+[
+  {
+    "name": "Figma",
+    "slug": "figma",
+    "website": "https://figma.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "figma"
+  },
+  {
+    "name": "Gitlab",
+    "slug": "gitlab",
+    "website": "https://gitlab.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "gitlab"
+  },
+  {
+    "name": "Stripe",
+    "slug": "stripe",
+    "website": "https://stripe.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "stripe"
+  },
+  {
+    "name": "Airbnb",
+    "slug": "airbnb",
+    "website": "https://airbnb.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "airbnb"
+  },
+  {
+    "name": "Twilio",
+    "slug": "twilio",
+    "website": "https://twilio.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "twilio"
+  },
+  {
+    "name": "Notion",
+    "slug": "notion",
+    "website": "https://notion.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "notion"
+  },
+  {
+    "name": "Datadog",
+    "slug": "datadog",
+    "website": "https://datadog.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "datadog"
+  },
+  {
+    "name": "Hashicorp",
+    "slug": "hashicorp",
+    "website": "https://hashicorp.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "hashicorp"
+  },
+  {
+    "name": "Cloudflare",
+    "slug": "cloudflare",
+    "website": "https://cloudflare.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "cloudflare"
+  },
+  {
+    "name": "Vercel",
+    "slug": "vercel",
+    "website": "https://vercel.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "vercel"
+  },
+  {
+    "name": "Supabase",
+    "slug": "supabase",
+    "website": "https://supabase.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "supabase"
+  },
+  {
+    "name": "Linear",
+    "slug": "linear",
+    "website": "https://linear.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "linear"
+  },
+  {
+    "name": "Retool",
+    "slug": "retool",
+    "website": "https://retool.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "retool"
+  },
+  {
+    "name": "Postman",
+    "slug": "postman",
+    "website": "https://postman.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "postman"
+  },
+  {
+    "name": "Airtable",
+    "slug": "airtable",
+    "website": "https://airtable.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "airtable"
+  },
+  {
+    "name": "Webflow",
+    "slug": "webflow",
+    "website": "https://webflow.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "webflow"
+  },
+  {
+    "name": "Deel",
+    "slug": "deel",
+    "website": "https://deel.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "deel"
+  },
+  {
+    "name": "Gusto",
+    "slug": "gusto",
+    "website": "https://gusto.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "gusto"
+  },
+  {
+    "name": "Plaid",
+    "slug": "plaid",
+    "website": "https://plaid.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "plaid"
+  },
+  {
+    "name": "Chime",
+    "slug": "chime",
+    "website": "https://chime.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "chime"
+  },
+  {
+    "name": "Brex",
+    "slug": "brex",
+    "website": "https://brex.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "brex"
+  },
+  {
+    "name": "Ramp",
+    "slug": "ramp",
+    "website": "https://ramp.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "ramp"
+  },
+  {
+    "name": "Rippling",
+    "slug": "rippling",
+    "website": "https://rippling.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "rippling"
+  },
+  {
+    "name": "Benchling",
+    "slug": "benchling",
+    "website": "https://benchling.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "benchling"
+  },
+  {
+    "name": "Lattice",
+    "slug": "lattice",
+    "website": "https://lattice.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "lattice"
+  },
+  {
+    "name": "Ashby",
+    "slug": "ashby",
+    "website": "https://ashby.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "ashby"
+  },
+  {
+    "name": "Loom",
+    "slug": "loom",
+    "website": "https://loom.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "loom"
+  },
+  {
+    "name": "Miro",
+    "slug": "miro",
+    "website": "https://miro.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "miro"
+  },
+  {
+    "name": "Canva",
+    "slug": "canva",
+    "website": "https://canva.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "canva"
+  },
+  {
+    "name": "Grammarly",
+    "slug": "grammarly",
+    "website": "https://grammarly.com",
+    "ats_type": "greenhouse",
+    "ats_identifier": "grammarly"
+  },
+  {
+    "name": "Netflix",
+    "slug": "netflix",
+    "website": "https://netflix.com",
+    "ats_type": "lever",
+    "ats_identifier": "netflix"
+  },
+  {
+    "name": "Twitch",
+    "slug": "twitch",
+    "website": "https://twitch.com",
+    "ats_type": "lever",
+    "ats_identifier": "twitch"
+  },
+  {
+    "name": "Reddit",
+    "slug": "reddit",
+    "website": "https://reddit.com",
+    "ats_type": "lever",
+    "ats_identifier": "reddit"
+  },
+  {
+    "name": "Lyft",
+    "slug": "lyft",
+    "website": "https://lyft.com",
+    "ats_type": "lever",
+    "ats_identifier": "lyft"
+  },
+  {
+    "name": "Shopify",
+    "slug": "shopify",
+    "website": "https://shopify.com",
+    "ats_type": "lever",
+    "ats_identifier": "shopify"
+  },
+  {
+    "name": "Autodesk",
+    "slug": "autodesk",
+    "website": "https://autodesk.com",
+    "ats_type": "lever",
+    "ats_identifier": "autodesk"
+  },
+  {
+    "name": "Anthropic",
+    "slug": "anthropic",
+    "website": "https://anthropic.com",
+    "ats_type": "ashby",
+    "ats_identifier": "anthropic"
+  },
+  {
+    "name": "Anduril",
+    "slug": "anduril",
+    "website": "https://anduril.com",
+    "ats_type": "ashby",
+    "ats_identifier": "anduril"
+  },
+  {
+    "name": "TCS",
+    "slug": "tcs",
+    "website": "https://tcs.com",
+    "ats_type": "custom",
+    "careers_url": "https://tcs.com/careers"
+  },
+  {
+    "name": "Infosys",
+    "slug": "infosys",
+    "website": "https://infosys.com",
+    "ats_type": "custom",
+    "careers_url": "https://infosys.com/careers"
+  },
+  {
+    "name": "Wipro",
+    "slug": "wipro",
+    "website": "https://wipro.com",
+    "ats_type": "custom",
+    "careers_url": "https://wipro.com/careers"
+  },
+  {
+    "name": "HCL Tech",
+    "slug": "hcl-tech",
+    "website": "https://hcl-tech.com",
+    "ats_type": "custom",
+    "careers_url": "https://hcl-tech.com/careers"
+  },
+  {
+    "name": "Tech Mahindra",
+    "slug": "tech-mahindra",
+    "website": "https://tech-mahindra.com",
+    "ats_type": "custom",
+    "careers_url": "https://tech-mahindra.com/careers"
+  },
+  {
+    "name": "Cognizant",
+    "slug": "cognizant",
+    "website": "https://cognizant.com",
+    "ats_type": "custom",
+    "careers_url": "https://cognizant.com/careers"
+  },
+  {
+    "name": "Accenture India",
+    "slug": "accenture-india",
+    "website": "https://accenture-india.com",
+    "ats_type": "custom",
+    "careers_url": "https://accenture-india.com/careers"
+  },
+  {
+    "name": "Capgemini India",
+    "slug": "capgemini-india",
+    "website": "https://capgemini-india.com",
+    "ats_type": "custom",
+    "careers_url": "https://capgemini-india.com/careers"
+  },
+  {
+    "name": "Deloitte India",
+    "slug": "deloitte-india",
+    "website": "https://deloitte-india.com",
+    "ats_type": "custom",
+    "careers_url": "https://deloitte-india.com/careers"
+  },
+  {
+    "name": "Microsoft India",
+    "slug": "microsoft-india",
+    "website": "https://microsoft-india.com",
+    "ats_type": "custom",
+    "careers_url": "https://microsoft-india.com/careers"
+  },
+  {
+    "name": "Google India",
+    "slug": "google-india",
+    "website": "https://google-india.com",
+    "ats_type": "custom",
+    "careers_url": "https://google-india.com/careers"
+  },
+  {
+    "name": "Amazon India",
+    "slug": "amazon-india",
+    "website": "https://amazon-india.com",
+    "ats_type": "custom",
+    "careers_url": "https://amazon-india.com/careers"
+  },
+  {
+    "name": "Flipkart",
+    "slug": "flipkart",
+    "website": "https://flipkart.com",
+    "ats_type": "custom",
+    "careers_url": "https://flipkart.com/careers"
+  },
+  {
+    "name": "Swiggy",
+    "slug": "swiggy",
+    "website": "https://swiggy.com",
+    "ats_type": "custom",
+    "careers_url": "https://swiggy.com/careers"
+  },
+  {
+    "name": "Zomato",
+    "slug": "zomato",
+    "website": "https://zomato.com",
+    "ats_type": "custom",
+    "careers_url": "https://zomato.com/careers"
+  },
+  {
+    "name": "Razorpay",
+    "slug": "razorpay",
+    "website": "https://razorpay.com",
+    "ats_type": "custom",
+    "careers_url": "https://razorpay.com/careers"
+  },
+  {
+    "name": "Zerodha",
+    "slug": "zerodha",
+    "website": "https://zerodha.com",
+    "ats_type": "custom",
+    "careers_url": "https://zerodha.com/careers"
+  },
+  {
+    "name": "CRED",
+    "slug": "cred",
+    "website": "https://cred.com",
+    "ats_type": "custom",
+    "careers_url": "https://cred.com/careers"
+  },
+  {
+    "name": "PhonePe",
+    "slug": "phonepe",
+    "website": "https://phonepe.com",
+    "ats_type": "custom",
+    "careers_url": "https://phonepe.com/careers"
+  },
+  {
+    "name": "Paytm",
+    "slug": "paytm",
+    "website": "https://paytm.com",
+    "ats_type": "custom",
+    "careers_url": "https://paytm.com/careers"
+  },
+  {
+    "name": "Ola",
+    "slug": "ola",
+    "website": "https://ola.com",
+    "ats_type": "custom",
+    "careers_url": "https://ola.com/careers"
+  },
+  {
+    "name": "Meesho",
+    "slug": "meesho",
+    "website": "https://meesho.com",
+    "ats_type": "custom",
+    "careers_url": "https://meesho.com/careers"
+  },
+  {
+    "name": "Groww",
+    "slug": "groww",
+    "website": "https://groww.com",
+    "ats_type": "custom",
+    "careers_url": "https://groww.com/careers"
+  },
+  {
+    "name": "Freshworks",
+    "slug": "freshworks",
+    "website": "https://freshworks.com",
+    "ats_type": "custom",
+    "careers_url": "https://freshworks.com/careers"
+  },
+  {
+    "name": "Zoho",
+    "slug": "zoho",
+    "website": "https://zoho.com",
+    "ats_type": "custom",
+    "careers_url": "https://zoho.com/careers"
+  },
+  {
+    "name": "HashedIn",
+    "slug": "hashedin",
+    "website": "https://hashedin.com",
+    "ats_type": "custom",
+    "careers_url": "https://hashedin.com/careers"
+  },
+  {
+    "name": "ThoughtWorks India",
+    "slug": "thoughtworks-india",
+    "website": "https://thoughtworks-india.com",
+    "ats_type": "custom",
+    "careers_url": "https://thoughtworks-india.com/careers"
+  },
+  {
+    "name": "Atlassian India",
+    "slug": "atlassian-india",
+    "website": "https://atlassian-india.com",
+    "ats_type": "custom",
+    "careers_url": "https://atlassian-india.com/careers"
+  },
+  {
+    "name": "Adobe India",
+    "slug": "adobe-india",
+    "website": "https://adobe-india.com",
+    "ats_type": "custom",
+    "careers_url": "https://adobe-india.com/careers"
+  },
+  {
+    "name": "Salesforce India",
+    "slug": "salesforce-india",
+    "website": "https://salesforce-india.com",
+    "ats_type": "custom",
+    "careers_url": "https://salesforce-india.com/careers"
+  },
+  {
+    "name": "Oracle India",
+    "slug": "oracle-india",
+    "website": "https://oracle-india.com",
+    "ats_type": "custom",
+    "careers_url": "https://oracle-india.com/careers"
+  },
+  {
+    "name": "Samsung India",
+    "slug": "samsung-india",
+    "website": "https://samsung-india.com",
+    "ats_type": "custom",
+    "careers_url": "https://samsung-india.com/careers"
+  },
+  {
+    "name": "Qualcomm India",
+    "slug": "qualcomm-india",
+    "website": "https://qualcomm-india.com",
+    "ats_type": "custom",
+    "careers_url": "https://qualcomm-india.com/careers"
+  },
+  {
+    "name": "Goldman Sachs India",
+    "slug": "goldman-sachs-india",
+    "website": "https://goldman-sachs-india.com",
+    "ats_type": "custom",
+    "careers_url": "https://goldman-sachs-india.com/careers"
+  },
+  {
+    "name": "JP Morgan India",
+    "slug": "jp-morgan-india",
+    "website": "https://jp-morgan-india.com",
+    "ats_type": "custom",
+    "careers_url": "https://jp-morgan-india.com/careers"
+  },
+  {
+    "name": "Morgan Stanley India",
+    "slug": "morgan-stanley-india",
+    "website": "https://morgan-stanley-india.com",
+    "ats_type": "custom",
+    "careers_url": "https://morgan-stanley-india.com/careers"
+  },
+  {
+    "name": "Deutsche Bank India",
+    "slug": "deutsche-bank-india",
+    "website": "https://deutsche-bank-india.com",
+    "ats_type": "custom",
+    "careers_url": "https://deutsche-bank-india.com/careers"
+  },
+  {
+    "name": "Barclays India",
+    "slug": "barclays-india",
+    "website": "https://barclays-india.com",
+    "ats_type": "custom",
+    "careers_url": "https://barclays-india.com/careers"
+  },
+  {
+    "name": "HSBC India",
+    "slug": "hsbc-india",
+    "website": "https://hsbc-india.com",
+    "ats_type": "custom",
+    "careers_url": "https://hsbc-india.com/careers"
+  },
+  {
+    "name": "Myntra",
+    "slug": "myntra",
+    "website": "https://myntra.com",
+    "ats_type": "custom",
+    "careers_url": "https://myntra.com/careers"
+  },
+  {
+    "name": "Nykaa",
+    "slug": "nykaa",
+    "website": "https://nykaa.com",
+    "ats_type": "custom",
+    "careers_url": "https://nykaa.com/careers"
+  },
+  {
+    "name": "Dunzo",
+    "slug": "dunzo",
+    "website": "https://dunzo.com",
+    "ats_type": "custom",
+    "careers_url": "https://dunzo.com/careers"
+  },
+  {
+    "name": "Udaan",
+    "slug": "udaan",
+    "website": "https://udaan.com",
+    "ats_type": "custom",
+    "careers_url": "https://udaan.com/careers"
+  },
+  {
+    "name": "Lenskart",
+    "slug": "lenskart",
+    "website": "https://lenskart.com",
+    "ats_type": "custom",
+    "careers_url": "https://lenskart.com/careers"
+  },
+  {
+    "name": "Cars24",
+    "slug": "cars24",
+    "website": "https://cars24.com",
+    "ats_type": "custom",
+    "careers_url": "https://cars24.com/careers"
+  },
+  {
+    "name": "OYO",
+    "slug": "oyo",
+    "website": "https://oyo.com",
+    "ats_type": "custom",
+    "careers_url": "https://oyo.com/careers"
+  },
+  {
+    "name": "Ather Energy",
+    "slug": "ather-energy",
+    "website": "https://ather-energy.com",
+    "ats_type": "custom",
+    "careers_url": "https://ather-energy.com/careers"
+  },
+  {
+    "name": "Postman India",
+    "slug": "postman-india",
+    "website": "https://postman-india.com",
+    "ats_type": "custom",
+    "careers_url": "https://postman-india.com/careers"
+  },
+  {
+    "name": "Browserstack",
+    "slug": "browserstack",
+    "website": "https://browserstack.com",
+    "ats_type": "custom",
+    "careers_url": "https://browserstack.com/careers"
+  },
+  {
+    "name": "Druva",
+    "slug": "druva",
+    "website": "https://druva.com",
+    "ats_type": "custom",
+    "careers_url": "https://druva.com/careers"
+  },
+  {
+    "name": "Icertis",
+    "slug": "icertis",
+    "website": "https://icertis.com",
+    "ats_type": "custom",
+    "careers_url": "https://icertis.com/careers"
+  },
+  {
+    "name": "MuSigma",
+    "slug": "musigma",
+    "website": "https://musigma.com",
+    "ats_type": "custom",
+    "careers_url": "https://musigma.com/careers"
+  },
+  {
+    "name": "Tiger Analytics",
+    "slug": "tiger-analytics",
+    "website": "https://tiger-analytics.com",
+    "ats_type": "custom",
+    "careers_url": "https://tiger-analytics.com/careers"
+  },
+  {
+    "name": "Fractal Analytics",
+    "slug": "fractal-analytics",
+    "website": "https://fractal-analytics.com",
+    "ats_type": "custom",
+    "careers_url": "https://fractal-analytics.com/careers"
+  },
+  {
+    "name": "Data Eminence",
+    "slug": "data-eminence",
+    "website": "https://data-eminence.com",
+    "ats_type": "custom",
+    "careers_url": "https://data-eminence.com/careers"
+  }
+]

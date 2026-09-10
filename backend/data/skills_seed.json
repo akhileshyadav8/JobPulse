@@ -1,0 +1,387 @@
+[
+  {
+    "name": "Python",
+    "slug": "python",
+    "category": "programming_language"
+  },
+  {
+    "name": "Java",
+    "slug": "java",
+    "category": "programming_language"
+  },
+  {
+    "name": "JavaScript",
+    "slug": "javascript",
+    "category": "programming_language"
+  },
+  {
+    "name": "TypeScript",
+    "slug": "typescript",
+    "category": "programming_language"
+  },
+  {
+    "name": "C++",
+    "slug": "cpp",
+    "category": "programming_language"
+  },
+  {
+    "name": "C#",
+    "slug": "csharp",
+    "category": "programming_language"
+  },
+  {
+    "name": "Go",
+    "slug": "go",
+    "category": "programming_language"
+  },
+  {
+    "name": "Rust",
+    "slug": "rust",
+    "category": "programming_language"
+  },
+  {
+    "name": "Kotlin",
+    "slug": "kotlin",
+    "category": "programming_language"
+  },
+  {
+    "name": "Swift",
+    "slug": "swift",
+    "category": "programming_language"
+  },
+  {
+    "name": "R",
+    "slug": "r",
+    "category": "programming_language"
+  },
+  {
+    "name": "Scala",
+    "slug": "scala",
+    "category": "programming_language"
+  },
+  {
+    "name": "Ruby",
+    "slug": "ruby",
+    "category": "programming_language"
+  },
+  {
+    "name": "PHP",
+    "slug": "php",
+    "category": "programming_language"
+  },
+  {
+    "name": "React",
+    "slug": "react",
+    "category": "framework"
+  },
+  {
+    "name": "Angular",
+    "slug": "angular",
+    "category": "framework"
+  },
+  {
+    "name": "Vue",
+    "slug": "vue",
+    "category": "framework"
+  },
+  {
+    "name": "Next.js",
+    "slug": "nextjs",
+    "category": "framework"
+  },
+  {
+    "name": "Django",
+    "slug": "django",
+    "category": "framework"
+  },
+  {
+    "name": "Flask",
+    "slug": "flask",
+    "category": "framework"
+  },
+  {
+    "name": "FastAPI",
+    "slug": "fastapi",
+    "category": "framework"
+  },
+  {
+    "name": "Spring Boot",
+    "slug": "spring-boot",
+    "category": "framework"
+  },
+  {
+    "name": "Express.js",
+    "slug": "expressjs",
+    "category": "framework"
+  },
+  {
+    "name": ".NET",
+    "slug": "dotnet",
+    "category": "framework"
+  },
+  {
+    "name": "PostgreSQL",
+    "slug": "postgresql",
+    "category": "database"
+  },
+  {
+    "name": "MySQL",
+    "slug": "mysql",
+    "category": "database"
+  },
+  {
+    "name": "MongoDB",
+    "slug": "mongodb",
+    "category": "database"
+  },
+  {
+    "name": "Redis",
+    "slug": "redis",
+    "category": "database"
+  },
+  {
+    "name": "Elasticsearch",
+    "slug": "elasticsearch",
+    "category": "database"
+  },
+  {
+    "name": "DynamoDB",
+    "slug": "dynamodb",
+    "category": "database"
+  },
+  {
+    "name": "Cassandra",
+    "slug": "cassandra",
+    "category": "database"
+  },
+  {
+    "name": "SQLite",
+    "slug": "sqlite",
+    "category": "database"
+  },
+  {
+    "name": "AWS",
+    "slug": "aws",
+    "category": "cloud"
+  },
+  {
+    "name": "Azure",
+    "slug": "azure",
+    "category": "cloud"
+  },
+  {
+    "name": "GCP",
+    "slug": "gcp",
+    "category": "cloud"
+  },
+  {
+    "name": "Google Cloud",
+    "slug": "google-cloud",
+    "category": "cloud"
+  },
+  {
+    "name": "Docker",
+    "slug": "docker",
+    "category": "devops"
+  },
+  {
+    "name": "Kubernetes",
+    "slug": "kubernetes",
+    "category": "devops"
+  },
+  {
+    "name": "Terraform",
+    "slug": "terraform",
+    "category": "devops"
+  },
+  {
+    "name": "Jenkins",
+    "slug": "jenkins",
+    "category": "devops"
+  },
+  {
+    "name": "GitHub Actions",
+    "slug": "github-actions",
+    "category": "devops"
+  },
+  {
+    "name": "CI/CD",
+    "slug": "cicd",
+    "category": "devops"
+  },
+  {
+    "name": "Linux",
+    "slug": "linux",
+    "category": "devops"
+  },
+  {
+    "name": "Nginx",
+    "slug": "nginx",
+    "category": "devops"
+  },
+  {
+    "name": "Git",
+    "slug": "git",
+    "category": "tool"
+  },
+  {
+    "name": "Jira",
+    "slug": "jira",
+    "category": "tool"
+  },
+  {
+    "name": "Confluence",
+    "slug": "confluence",
+    "category": "tool"
+  },
+  {
+    "name": "Figma",
+    "slug": "figma",
+    "category": "tool"
+  },
+  {
+    "name": "Postman",
+    "slug": "postman",
+    "category": "tool"
+  },
+  {
+    "name": "VS Code",
+    "slug": "vs-code",
+    "category": "tool"
+  },
+  {
+    "name": "SQL",
+    "slug": "sql",
+    "category": "data"
+  },
+  {
+    "name": "Pandas",
+    "slug": "pandas",
+    "category": "data"
+  },
+  {
+    "name": "NumPy",
+    "slug": "numpy",
+    "category": "data"
+  },
+  {
+    "name": "Spark",
+    "slug": "spark",
+    "category": "data"
+  },
+  {
+    "name": "Hadoop",
+    "slug": "hadoop",
+    "category": "data"
+  },
+  {
+    "name": "Kafka",
+    "slug": "kafka",
+    "category": "data"
+  },
+  {
+    "name": "Airflow",
+    "slug": "airflow",
+    "category": "data"
+  },
+  {
+    "name": "dbt",
+    "slug": "dbt",
+    "category": "data"
+  },
+  {
+    "name": "Tableau",
+    "slug": "tableau",
+    "category": "data"
+  },
+  {
+    "name": "Power BI",
+    "slug": "power-bi",
+    "category": "data"
+  },
+  {
+    "name": "ETL",
+    "slug": "etl",
+    "category": "data"
+  },
+  {
+    "name": "ELT",
+    "slug": "elt",
+    "category": "data"
+  },
+  {
+    "name": "Data pipelines",
+    "slug": "data-pipelines",
+    "category": "data"
+  },
+  {
+    "name": "Data warehousing",
+    "slug": "data-warehousing",
+    "category": "data"
+  },
+  {
+    "name": "Data modeling",
+    "slug": "data-modeling",
+    "category": "data"
+  },
+  {
+    "name": "Machine Learning",
+    "slug": "machine-learning",
+    "category": "ml-ai"
+  },
+  {
+    "name": "Deep Learning",
+    "slug": "deep-learning",
+    "category": "ml-ai"
+  },
+  {
+    "name": "NLP",
+    "slug": "nlp",
+    "category": "ml-ai"
+  },
+  {
+    "name": "Computer Vision",
+    "slug": "computer-vision",
+    "category": "ml-ai"
+  },
+  {
+    "name": "TensorFlow",
+    "slug": "tensorflow",
+    "category": "ml-ai"
+  },
+  {
+    "name": "PyTorch",
+    "slug": "pytorch",
+    "category": "ml-ai"
+  },
+  {
+    "name": "scikit-learn",
+    "slug": "scikit-learn",
+    "category": "ml-ai"
+  },
+  {
+    "name": "Problem solving",
+    "slug": "problem-solving",
+    "category": "soft-skill"
+  },
+  {
+    "name": "Communication",
+    "slug": "communication",
+    "category": "soft-skill"
+  },
+  {
+    "name": "Teamwork",
+    "slug": "teamwork",
+    "category": "soft-skill"
+  },
+  {
+    "name": "Leadership",
+    "slug": "leadership",
+    "category": "soft-skill"
+  },
+  {
+    "name": "Analytical thinking",
+    "slug": "analytical-thinking",
+    "category": "soft-skill"
+  }
+]

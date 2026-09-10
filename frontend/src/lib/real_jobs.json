@@ -1,0 +1,4228 @@
+[
+  {
+    "id": 1,
+    "title": "Account Development Representative",
+    "slug": "postman-7801476003",
+    "company": {
+      "id": 1,
+      "name": "Postman",
+      "slug": "postman",
+      "logo_url": null,
+      "industry": "Developer Tools & API"
+    },
+    "location": [
+      "Singapore"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 1500000,
+    "salary_max": 2100000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://job-boards.greenhouse.io/postman/jobs/7801476003",
+    "apply_url": "https://job-boards.greenhouse.io/postman/jobs/7801476003",
+    "posted_at": "2026-09-09T19:52:43.147666+00:00",
+    "deadline": "2026-10-11T08:25:43.147666+00:00",
+    "first_seen_at": "2026-09-09T19:52:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Postman's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Postman's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Postman report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Postman is the leading API platform used by over 30 million developers worldwide. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Excellent",
+    "rating_reason": "Direct hiring opening on Postman's official portal with clear growth trajectory.",
+    "view_count": 1828
+  },
+  {
+    "id": 36,
+    "title": "Business Development Executive",
+    "slug": "thoughtworks-7979248",
+    "company": {
+      "id": 8,
+      "name": "Thoughtworks",
+      "slug": "thoughtworks",
+      "logo_url": null,
+      "industry": "Software Consultancy"
+    },
+    "location": [
+      "Atlanta",
+      "Georgia",
+      "USA; Chicago",
+      "Illinois",
+      "USA; Dallas",
+      "Texas",
+      "USA; New York City",
+      "New York",
+      "USA"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 800000,
+    "salary_max": 1400000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://www.thoughtworks.com/careers/jobs/7979248?gh_jid=7979248",
+    "apply_url": "https://www.thoughtworks.com/careers/jobs/7979248?gh_jid=7979248",
+    "posted_at": "2026-09-06T23:53:43.147666+00:00",
+    "deadline": "2026-10-19T08:25:43.147666+00:00",
+    "first_seen_at": "2026-09-06T23:53:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Thoughtworks's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Thoughtworks's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Thoughtworks report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Global technology consultancy integrating strategy, design and software engineering. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Good",
+    "rating_reason": "Direct hiring opening on Thoughtworks's official portal with clear growth trajectory.",
+    "view_count": 3017
+  },
+  {
+    "id": 5,
+    "title": "Account Development Representative (Portuguese & Spanish Speaking)",
+    "slug": "postman-7491503003",
+    "company": {
+      "id": 1,
+      "name": "Postman",
+      "slug": "postman",
+      "logo_url": null,
+      "industry": "Developer Tools & API"
+    },
+    "location": [
+      "Austin",
+      "Texas",
+      "United States"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 800000,
+    "salary_max": 1200000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://job-boards.greenhouse.io/postman/jobs/7491503003",
+    "apply_url": "https://job-boards.greenhouse.io/postman/jobs/7491503003",
+    "posted_at": "2026-09-05T17:23:43.147666+00:00",
+    "deadline": "2026-10-07T08:25:43.147666+00:00",
+    "first_seen_at": "2026-09-05T17:23:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Postman's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Postman's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Postman report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Postman is the leading API platform used by over 30 million developers worldwide. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Good",
+    "rating_reason": "Direct hiring opening on Postman's official portal with clear growth trajectory.",
+    "view_count": 1416
+  },
+  {
+    "id": 3,
+    "title": "Account Development Representative",
+    "slug": "postman-7855718003",
+    "company": {
+      "id": 1,
+      "name": "Postman",
+      "slug": "postman",
+      "logo_url": null,
+      "industry": "Developer Tools & API"
+    },
+    "location": [
+      "London",
+      "UK"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 1000000,
+    "salary_max": 1400000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://job-boards.greenhouse.io/postman/jobs/7855718003",
+    "apply_url": "https://job-boards.greenhouse.io/postman/jobs/7855718003",
+    "posted_at": "2026-08-24T13:25:43.147666+00:00",
+    "deadline": "2026-10-01T08:25:43.147666+00:00",
+    "first_seen_at": "2026-08-24T13:25:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Postman's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Postman's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Postman report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Postman is the leading API platform used by over 30 million developers worldwide. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Good",
+    "rating_reason": "Direct hiring opening on Postman's official portal with clear growth trajectory.",
+    "view_count": 2596
+  },
+  {
+    "id": 21,
+    "title": "Abuse Investigator",
+    "slug": "stripe-8172510",
+    "company": {
+      "id": 5,
+      "name": "Stripe",
+      "slug": "stripe",
+      "logo_url": null,
+      "industry": "Financial Infrastructure"
+    },
+    "location": [
+      "Seattle",
+      "San Francisco",
+      "New York City"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 1800000,
+    "salary_max": 2200000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://stripe.com/jobs/search?gh_jid=8172510",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=8172510",
+    "posted_at": "2026-08-23T04:31:43.147666+00:00",
+    "deadline": "2026-10-14T08:25:43.147666+00:00",
+    "first_seen_at": "2026-08-23T04:31:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Stripe's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Stripe's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Stripe report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Financial infrastructure for the internet, powering millions of online businesses. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Excellent",
+    "rating_reason": "Direct hiring opening on Stripe's official portal with clear growth trajectory.",
+    "view_count": 1802
+  },
+  {
+    "id": 17,
+    "title": "AI Transformation Owner, CRO",
+    "slug": "gitlab-8638232002",
+    "company": {
+      "id": 4,
+      "name": "GitLab",
+      "slug": "gitlab",
+      "logo_url": null,
+      "industry": "DevOps & Software"
+    },
+    "location": [
+      "Remote",
+      "United States"
+    ],
+    "primary_city": "Remote",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Remote",
+    "salary_min": 800000,
+    "salary_max": 1200000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://job-boards.greenhouse.io/gitlab/jobs/8638232002",
+    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8638232002",
+    "posted_at": "2026-08-18T20:42:43.147666+00:00",
+    "deadline": "2026-10-19T08:25:43.147666+00:00",
+    "first_seen_at": "2026-08-18T20:42:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from GitLab's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from GitLab's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at GitLab report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "The open-source DevSecOps platform delivered as a single application. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Good",
+    "rating_reason": "Direct hiring opening on GitLab's official portal with clear growth trajectory.",
+    "view_count": 3208
+  },
+  {
+    "id": 10,
+    "title": "Relationship Manager",
+    "slug": "groww-4528370101",
+    "company": {
+      "id": 2,
+      "name": "Groww",
+      "slug": "groww",
+      "logo_url": null,
+      "industry": "Fintech & Investing"
+    },
+    "location": [
+      "India"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 800000,
+    "salary_max": 1000000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://job-boards.eu.greenhouse.io/groww/jobs/4528370101",
+    "apply_url": "https://job-boards.eu.greenhouse.io/groww/jobs/4528370101",
+    "posted_at": "2026-08-18T02:15:43.147666+00:00",
+    "deadline": "2026-10-16T08:25:43.147666+00:00",
+    "first_seen_at": "2026-08-18T02:15:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Groww's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Groww's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Groww report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Groww is India's fastest growing financial services and investment platform. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Good",
+    "rating_reason": "Direct hiring opening on Groww's official portal with clear growth trajectory.",
+    "view_count": 2992
+  },
+  {
+    "id": 12,
+    "title": "AI Security Research & Red Team Engineer",
+    "slug": "cloudflare-8097321",
+    "company": {
+      "id": 3,
+      "name": "Cloudflare",
+      "slug": "cloudflare",
+      "logo_url": null,
+      "industry": "Cloud & Cybersecurity"
+    },
+    "location": [
+      "Hybrid"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 1200000,
+    "salary_max": 1600000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Java",
+      "Python",
+      "Data Structures",
+      "Algorithms",
+      "REST APIs",
+      "Docker",
+      "AWS"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://boards.greenhouse.io/cloudflare/jobs/8097321?gh_jid=8097321",
+    "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8097321?gh_jid=8097321",
+    "posted_at": "2026-08-16T15:41:43.147666+00:00",
+    "deadline": "2026-09-27T08:25:43.147666+00:00",
+    "first_seen_at": "2026-08-16T15:41:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Cloudflare's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Cloudflare's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Cloudflare report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Cloudflare protects and accelerates millions of web properties across the globe. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Excellent",
+    "rating_reason": "Direct hiring opening on Cloudflare's official portal with clear growth trajectory.",
+    "view_count": 1095
+  },
+  {
+    "id": 37,
+    "title": "Business Development Manager",
+    "slug": "thoughtworks-8166611",
+    "company": {
+      "id": 8,
+      "name": "Thoughtworks",
+      "slug": "thoughtworks",
+      "logo_url": null,
+      "industry": "Software Consultancy"
+    },
+    "location": [
+      "Amsterdam",
+      "Netherlands"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 1500000,
+    "salary_max": 1900000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://www.thoughtworks.com/careers/jobs/8166611?gh_jid=8166611",
+    "apply_url": "https://www.thoughtworks.com/careers/jobs/8166611?gh_jid=8166611",
+    "posted_at": "2026-08-13T15:37:43.147666+00:00",
+    "deadline": "2026-09-29T08:25:43.147666+00:00",
+    "first_seen_at": "2026-08-13T15:37:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Thoughtworks's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Thoughtworks's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Thoughtworks report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Global technology consultancy integrating strategy, design and software engineering. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Excellent",
+    "rating_reason": "Direct hiring opening on Thoughtworks's official portal with clear growth trajectory.",
+    "view_count": 4156
+  },
+  {
+    "id": 33,
+    "title": "Bay Area Sales - Future Opportunities",
+    "slug": "druva-7727374002",
+    "company": {
+      "id": 7,
+      "name": "Druva",
+      "slug": "druva",
+      "logo_url": null,
+      "industry": "Cloud Data Protection"
+    },
+    "location": [
+      "Santa Clara",
+      "CA"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 1000000,
+    "salary_max": 1400000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://www.druva.com/why-druva/explore/careers/jobs/7727374002/?gh_jid=7727374002",
+    "apply_url": "https://www.druva.com/why-druva/explore/careers/jobs/7727374002/?gh_jid=7727374002",
+    "posted_at": "2026-08-11T11:15:43.147666+00:00",
+    "deadline": "2026-10-04T08:25:43.147666+00:00",
+    "first_seen_at": "2026-08-11T11:15:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Druva's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Druva's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Druva report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "SaaS platform for data resiliency, protecting enterprise data across endpoints and clouds. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Good",
+    "rating_reason": "Direct hiring opening on Druva's official portal with clear growth trajectory.",
+    "view_count": 1417
+  },
+  {
+    "id": 32,
+    "title": "Account Executive, LATAM",
+    "slug": "druva-8747276002",
+    "company": {
+      "id": 7,
+      "name": "Druva",
+      "slug": "druva",
+      "logo_url": null,
+      "industry": "Cloud Data Protection"
+    },
+    "location": [
+      "Texas",
+      "US"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 1800000,
+    "salary_max": 2400000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://www.druva.com/why-druva/explore/careers/jobs/8747276002/?gh_jid=8747276002",
+    "apply_url": "https://www.druva.com/why-druva/explore/careers/jobs/8747276002/?gh_jid=8747276002",
+    "posted_at": "2026-08-06T05:22:43.147666+00:00",
+    "deadline": "2026-10-22T08:25:43.147666+00:00",
+    "first_seen_at": "2026-08-06T05:22:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Druva's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Druva's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Druva report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "SaaS platform for data resiliency, protecting enterprise data across endpoints and clouds. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Excellent",
+    "rating_reason": "Direct hiring opening on Druva's official portal with clear growth trajectory.",
+    "view_count": 2384
+  },
+  {
+    "id": 4,
+    "title": "Account Development Representative",
+    "slug": "postman-7812973003",
+    "company": {
+      "id": 1,
+      "name": "Postman",
+      "slug": "postman",
+      "logo_url": null,
+      "industry": "Developer Tools & API"
+    },
+    "location": [
+      "Australia"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 1800000,
+    "salary_max": 2200000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://job-boards.greenhouse.io/postman/jobs/7812973003",
+    "apply_url": "https://job-boards.greenhouse.io/postman/jobs/7812973003",
+    "posted_at": "2026-08-05T22:08:43.147666+00:00",
+    "deadline": "2026-09-28T08:25:43.147666+00:00",
+    "first_seen_at": "2026-08-05T22:08:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Postman's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Postman's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Postman report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Postman is the leading API platform used by over 30 million developers worldwide. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Excellent",
+    "rating_reason": "Direct hiring opening on Postman's official portal with clear growth trajectory.",
+    "view_count": 2595
+  },
+  {
+    "id": 22,
+    "title": "Abuse Investigator",
+    "slug": "stripe-8172487",
+    "company": {
+      "id": 5,
+      "name": "Stripe",
+      "slug": "stripe",
+      "logo_url": null,
+      "industry": "Financial Infrastructure"
+    },
+    "location": [
+      "Dublin"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 1800000,
+    "salary_max": 2200000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://stripe.com/jobs/search?gh_jid=8172487",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=8172487",
+    "posted_at": "2026-08-04T20:22:43.147666+00:00",
+    "deadline": "2026-09-29T08:25:43.147666+00:00",
+    "first_seen_at": "2026-08-04T20:22:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Stripe's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Stripe's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Stripe report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Financial infrastructure for the internet, powering millions of online businesses. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Excellent",
+    "rating_reason": "Direct hiring opening on Stripe's official portal with clear growth trajectory.",
+    "view_count": 1159
+  },
+  {
+    "id": 23,
+    "title": "Abuse Investigator",
+    "slug": "stripe-8172508",
+    "company": {
+      "id": 5,
+      "name": "Stripe",
+      "slug": "stripe",
+      "logo_url": null,
+      "industry": "Financial Infrastructure"
+    },
+    "location": [
+      "Dublin"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 1200000,
+    "salary_max": 1400000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://stripe.com/jobs/search?gh_jid=8172508",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=8172508",
+    "posted_at": "2026-08-01T07:44:43.147666+00:00",
+    "deadline": "2026-10-23T08:25:43.147666+00:00",
+    "first_seen_at": "2026-08-01T07:44:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Stripe's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Stripe's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Stripe report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Financial infrastructure for the internet, powering millions of online businesses. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Excellent",
+    "rating_reason": "Direct hiring opening on Stripe's official portal with clear growth trajectory.",
+    "view_count": 981
+  },
+  {
+    "id": 13,
+    "title": "Associate General Counsel, Privacy Compliance",
+    "slug": "cloudflare-8144669",
+    "company": {
+      "id": 3,
+      "name": "Cloudflare",
+      "slug": "cloudflare",
+      "logo_url": null,
+      "industry": "Cloud & Cybersecurity"
+    },
+    "location": [
+      "Hybrid"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 1800000,
+    "salary_max": 2000000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://boards.greenhouse.io/cloudflare/jobs/8144669?gh_jid=8144669",
+    "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8144669?gh_jid=8144669",
+    "posted_at": "2026-07-30T00:26:43.147666+00:00",
+    "deadline": "2026-10-07T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-30T00:26:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Cloudflare's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Cloudflare's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Cloudflare report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Cloudflare protects and accelerates millions of web properties across the globe. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Excellent",
+    "rating_reason": "Direct hiring opening on Cloudflare's official portal with clear growth trajectory.",
+    "view_count": 2086
+  },
+  {
+    "id": 20,
+    "title": "Associate Renewals Manager",
+    "slug": "gitlab-8785825002",
+    "company": {
+      "id": 4,
+      "name": "GitLab",
+      "slug": "gitlab",
+      "logo_url": null,
+      "industry": "DevOps & Software"
+    },
+    "location": [
+      "Remote Ireland; Remote",
+      "Israel"
+    ],
+    "primary_city": "Remote",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Remote",
+    "salary_min": 1200000,
+    "salary_max": 1400000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://job-boards.greenhouse.io/gitlab/jobs/8785825002",
+    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8785825002",
+    "posted_at": "2026-07-29T09:31:43.147666+00:00",
+    "deadline": "2026-10-16T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-29T09:31:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from GitLab's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from GitLab's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at GitLab report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "The open-source DevSecOps platform delivered as a single application. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Excellent",
+    "rating_reason": "Direct hiring opening on GitLab's official portal with clear growth trajectory.",
+    "view_count": 1021
+  },
+  {
+    "id": 14,
+    "title": "Associate Solutions Engineer - Beijing",
+    "slug": "cloudflare-8152697",
+    "company": {
+      "id": 3,
+      "name": "Cloudflare",
+      "slug": "cloudflare",
+      "logo_url": null,
+      "industry": "Cloud & Cybersecurity"
+    },
+    "location": [
+      "Hybrid"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 800000,
+    "salary_max": 1200000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Java",
+      "Python",
+      "Data Structures",
+      "Algorithms",
+      "REST APIs",
+      "Docker",
+      "AWS"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://boards.greenhouse.io/cloudflare/jobs/8152697?gh_jid=8152697",
+    "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8152697?gh_jid=8152697",
+    "posted_at": "2026-07-29T04:01:43.147666+00:00",
+    "deadline": "2026-10-20T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-29T04:01:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Cloudflare's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Cloudflare's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Cloudflare report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Cloudflare protects and accelerates millions of web properties across the globe. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Good",
+    "rating_reason": "Direct hiring opening on Cloudflare's official portal with clear growth trajectory.",
+    "view_count": 2470
+  },
+  {
+    "id": 18,
+    "title": "AI Transformation Owner, Product & Design",
+    "slug": "gitlab-8716179002",
+    "company": {
+      "id": 4,
+      "name": "GitLab",
+      "slug": "gitlab",
+      "logo_url": null,
+      "industry": "DevOps & Software"
+    },
+    "location": [
+      "Remote",
+      "Canada; Remote",
+      "United Kingdom; Remote",
+      "United States"
+    ],
+    "primary_city": "Remote",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Remote",
+    "salary_min": 800000,
+    "salary_max": 1400000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://job-boards.greenhouse.io/gitlab/jobs/8716179002",
+    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8716179002",
+    "posted_at": "2026-07-28T01:40:43.147666+00:00",
+    "deadline": "2026-10-02T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-28T01:40:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from GitLab's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from GitLab's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at GitLab report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "The open-source DevSecOps platform delivered as a single application. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Good",
+    "rating_reason": "Direct hiring opening on GitLab's official portal with clear growth trajectory.",
+    "view_count": 1136
+  },
+  {
+    "id": 19,
+    "title": "Area Vice President - Financial Services ",
+    "slug": "gitlab-8631068002",
+    "company": {
+      "id": 4,
+      "name": "GitLab",
+      "slug": "gitlab",
+      "logo_url": null,
+      "industry": "DevOps & Software"
+    },
+    "location": [
+      "Remote",
+      "US"
+    ],
+    "primary_city": "Remote",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Remote",
+    "salary_min": 800000,
+    "salary_max": 1000000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://job-boards.greenhouse.io/gitlab/jobs/8631068002",
+    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8631068002",
+    "posted_at": "2026-07-26T05:06:43.147666+00:00",
+    "deadline": "2026-10-11T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-26T05:06:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from GitLab's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from GitLab's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at GitLab report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "The open-source DevSecOps platform delivered as a single application. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Good",
+    "rating_reason": "Direct hiring opening on GitLab's official portal with clear growth trajectory.",
+    "view_count": 1716
+  },
+  {
+    "id": 40,
+    "title": "Client Partner - Software & Platform",
+    "slug": "thoughtworks-8081075",
+    "company": {
+      "id": 8,
+      "name": "Thoughtworks",
+      "slug": "thoughtworks",
+      "logo_url": null,
+      "industry": "Software Consultancy"
+    },
+    "location": [
+      "San Francisco",
+      "California",
+      "USA"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 800000,
+    "salary_max": 1400000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Java",
+      "Python",
+      "Data Structures",
+      "Algorithms",
+      "REST APIs",
+      "Docker",
+      "AWS"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://www.thoughtworks.com/careers/jobs/8081075?gh_jid=8081075",
+    "apply_url": "https://www.thoughtworks.com/careers/jobs/8081075?gh_jid=8081075",
+    "posted_at": "2026-07-22T22:52:43.147666+00:00",
+    "deadline": "2026-10-09T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-22T22:52:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Thoughtworks's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Thoughtworks's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Thoughtworks report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Global technology consultancy integrating strategy, design and software engineering. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Good",
+    "rating_reason": "Direct hiring opening on Thoughtworks's official portal with clear growth trajectory.",
+    "view_count": 4496
+  },
+  {
+    "id": 24,
+    "title": "Abuse Research Engineer",
+    "slug": "stripe-8172503",
+    "company": {
+      "id": 5,
+      "name": "Stripe",
+      "slug": "stripe",
+      "logo_url": null,
+      "industry": "Financial Infrastructure"
+    },
+    "location": [
+      "Remote from the US"
+    ],
+    "primary_city": "Remote",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Remote",
+    "salary_min": 1500000,
+    "salary_max": 1900000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Java",
+      "Python",
+      "Data Structures",
+      "Algorithms",
+      "REST APIs",
+      "Docker",
+      "AWS"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://stripe.com/jobs/search?gh_jid=8172503",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=8172503",
+    "posted_at": "2026-07-22T22:15:43.147666+00:00",
+    "deadline": "2026-09-30T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-22T22:15:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Stripe's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Stripe's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Stripe report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Financial infrastructure for the internet, powering millions of online businesses. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Excellent",
+    "rating_reason": "Direct hiring opening on Stripe's official portal with clear growth trajectory.",
+    "view_count": 844
+  },
+  {
+    "id": 8,
+    "title": "Portfolio Specialist - Wealth",
+    "slug": "groww-4714065101",
+    "company": {
+      "id": 2,
+      "name": "Groww",
+      "slug": "groww",
+      "logo_url": null,
+      "industry": "Fintech & Investing"
+    },
+    "location": [
+      "Mumbai",
+      "India"
+    ],
+    "primary_city": "Mumbai",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 800000,
+    "salary_max": 1200000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://job-boards.eu.greenhouse.io/groww/jobs/4714065101",
+    "apply_url": "https://job-boards.eu.greenhouse.io/groww/jobs/4714065101",
+    "posted_at": "2026-07-22T20:26:43.147666+00:00",
+    "deadline": "2026-10-15T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-22T20:26:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Groww's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Groww's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Groww report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Groww is India's fastest growing financial services and investment platform. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Good",
+    "rating_reason": "Direct hiring opening on Groww's official portal with clear growth trajectory.",
+    "view_count": 1806
+  },
+  {
+    "id": 39,
+    "title": "Client Partner",
+    "slug": "thoughtworks-7956304",
+    "company": {
+      "id": 8,
+      "name": "Thoughtworks",
+      "slug": "thoughtworks",
+      "logo_url": null,
+      "industry": "Software Consultancy"
+    },
+    "location": [
+      "Singapore",
+      "Singapore"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 1800000,
+    "salary_max": 2000000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://www.thoughtworks.com/careers/jobs/7956304?gh_jid=7956304",
+    "apply_url": "https://www.thoughtworks.com/careers/jobs/7956304?gh_jid=7956304",
+    "posted_at": "2026-07-20T02:03:43.147666+00:00",
+    "deadline": "2026-10-14T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-20T02:03:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Thoughtworks's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Thoughtworks's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Thoughtworks report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Global technology consultancy integrating strategy, design and software engineering. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Excellent",
+    "rating_reason": "Direct hiring opening on Thoughtworks's official portal with clear growth trajectory.",
+    "view_count": 1332
+  },
+  {
+    "id": 34,
+    "title": "Data Operations Specialist ",
+    "slug": "druva-8298455002",
+    "company": {
+      "id": 7,
+      "name": "Druva",
+      "slug": "druva",
+      "logo_url": null,
+      "industry": "Cloud Data Protection"
+    },
+    "location": [
+      "Pune",
+      "Maharashtra",
+      "India"
+    ],
+    "primary_city": "Pune",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 1800000,
+    "salary_max": 2000000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "SQL",
+      "Python",
+      "ETL",
+      "Data Pipelines",
+      "PostgreSQL",
+      "Data Warehousing",
+      "Tableau"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://www.druva.com/why-druva/explore/careers/jobs/8298455002/?gh_jid=8298455002",
+    "apply_url": "https://www.druva.com/why-druva/explore/careers/jobs/8298455002/?gh_jid=8298455002",
+    "posted_at": "2026-07-20T01:54:43.147666+00:00",
+    "deadline": "2026-10-05T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-20T01:54:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Druva's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Druva's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Druva report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "SaaS platform for data resiliency, protecting enterprise data across endpoints and clouds. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Excellent",
+    "rating_reason": "Direct hiring opening on Druva's official portal with clear growth trajectory.",
+    "view_count": 3116
+  },
+  {
+    "id": 15,
+    "title": "Business Development Manager",
+    "slug": "cloudflare-8084358",
+    "company": {
+      "id": 3,
+      "name": "Cloudflare",
+      "slug": "cloudflare",
+      "logo_url": null,
+      "industry": "Cloud & Cybersecurity"
+    },
+    "location": [
+      "Hybrid"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 1200000,
+    "salary_max": 1400000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://boards.greenhouse.io/cloudflare/jobs/8084358?gh_jid=8084358",
+    "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8084358?gh_jid=8084358",
+    "posted_at": "2026-07-19T14:58:43.147666+00:00",
+    "deadline": "2026-10-23T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-19T14:58:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Cloudflare's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Cloudflare's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Cloudflare report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Cloudflare protects and accelerates millions of web properties across the globe. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Excellent",
+    "rating_reason": "Direct hiring opening on Cloudflare's official portal with clear growth trajectory.",
+    "view_count": 4268
+  },
+  {
+    "id": 29,
+    "title": "Account Development Representative",
+    "slug": "mongodb-8072094",
+    "company": {
+      "id": 6,
+      "name": "MongoDB",
+      "slug": "mongodb",
+      "logo_url": null,
+      "industry": "Database & Cloud"
+    },
+    "location": [
+      "Dublin"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 1200000,
+    "salary_max": 1800000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://www.mongodb.com/careers/job/?gh_jid=8072094",
+    "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8072094",
+    "posted_at": "2026-07-19T10:47:43.147666+00:00",
+    "deadline": "2026-10-11T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-19T10:47:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from MongoDB's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from MongoDB's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at MongoDB report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "The leading modern developer data platform built on flexible document models. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Excellent",
+    "rating_reason": "Direct hiring opening on MongoDB's official portal with clear growth trajectory.",
+    "view_count": 2331
+  },
+  {
+    "id": 27,
+    "title": "Account Development Representative",
+    "slug": "mongodb-7318558",
+    "company": {
+      "id": 6,
+      "name": "MongoDB",
+      "slug": "mongodb",
+      "logo_url": null,
+      "industry": "Database & Cloud"
+    },
+    "location": [
+      "Gurugram"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 1000000,
+    "salary_max": 1200000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://www.mongodb.com/careers/job/?gh_jid=7318558",
+    "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318558",
+    "posted_at": "2026-07-19T05:35:43.147666+00:00",
+    "deadline": "2026-10-19T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-19T05:35:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from MongoDB's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from MongoDB's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at MongoDB report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "The leading modern developer data platform built on flexible document models. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Good",
+    "rating_reason": "Direct hiring opening on MongoDB's official portal with clear growth trajectory.",
+    "view_count": 3259
+  },
+  {
+    "id": 9,
+    "title": "Product Research Specialist (W from Groww)",
+    "slug": "groww-4714061101",
+    "company": {
+      "id": 2,
+      "name": "Groww",
+      "slug": "groww",
+      "logo_url": null,
+      "industry": "Fintech & Investing"
+    },
+    "location": [
+      "Mumbai",
+      "India"
+    ],
+    "primary_city": "Mumbai",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 1000000,
+    "salary_max": 1200000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://job-boards.eu.greenhouse.io/groww/jobs/4714061101",
+    "apply_url": "https://job-boards.eu.greenhouse.io/groww/jobs/4714061101",
+    "posted_at": "2026-07-18T10:22:43.147666+00:00",
+    "deadline": "2026-10-10T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-18T10:22:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Groww's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Groww's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Groww report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Groww is India's fastest growing financial services and investment platform. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Good",
+    "rating_reason": "Direct hiring opening on Groww's official portal with clear growth trajectory.",
+    "view_count": 2863
+  },
+  {
+    "id": 25,
+    "title": "Account Executive, AI Sales",
+    "slug": "stripe-7532733",
+    "company": {
+      "id": 5,
+      "name": "Stripe",
+      "slug": "stripe",
+      "logo_url": null,
+      "industry": "Financial Infrastructure"
+    },
+    "location": [
+      "San Francisco",
+      "CA"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 800000,
+    "salary_max": 1000000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://stripe.com/jobs/search?gh_jid=7532733",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=7532733",
+    "posted_at": "2026-07-17T09:37:43.147666+00:00",
+    "deadline": "2026-10-09T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-17T09:37:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Stripe's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Stripe's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Stripe report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Financial infrastructure for the internet, powering millions of online businesses. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Good",
+    "rating_reason": "Direct hiring opening on Stripe's official portal with clear growth trajectory.",
+    "view_count": 2565
+  },
+  {
+    "id": 7,
+    "title": "Manager - Controllership (NBFC)",
+    "slug": "groww-4728765101",
+    "company": {
+      "id": 2,
+      "name": "Groww",
+      "slug": "groww",
+      "logo_url": null,
+      "industry": "Fintech & Investing"
+    },
+    "location": [
+      "Bengaluru-VTP",
+      "India"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 1000000,
+    "salary_max": 1600000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://job-boards.eu.greenhouse.io/groww/jobs/4728765101",
+    "apply_url": "https://job-boards.eu.greenhouse.io/groww/jobs/4728765101",
+    "posted_at": "2026-07-15T21:56:43.147666+00:00",
+    "deadline": "2026-10-20T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-15T21:56:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Groww's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Groww's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Groww report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Groww is India's fastest growing financial services and investment platform. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Good",
+    "rating_reason": "Direct hiring opening on Groww's official portal with clear growth trajectory.",
+    "view_count": 2372
+  },
+  {
+    "id": 31,
+    "title": "Account Executive, Endpoints",
+    "slug": "druva-8626085002",
+    "company": {
+      "id": 7,
+      "name": "Druva",
+      "slug": "druva",
+      "logo_url": null,
+      "industry": "Cloud Data Protection"
+    },
+    "location": [
+      "London"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 1800000,
+    "salary_max": 2400000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://www.druva.com/why-druva/explore/careers/jobs/8626085002/?gh_jid=8626085002",
+    "apply_url": "https://www.druva.com/why-druva/explore/careers/jobs/8626085002/?gh_jid=8626085002",
+    "posted_at": "2026-07-13T09:40:43.147666+00:00",
+    "deadline": "2026-10-10T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-13T09:40:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Druva's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Druva's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Druva report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "SaaS platform for data resiliency, protecting enterprise data across endpoints and clouds. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Excellent",
+    "rating_reason": "Direct hiring opening on Druva's official portal with clear growth trajectory.",
+    "view_count": 2914
+  },
+  {
+    "id": 16,
+    "title": "AI Engineer",
+    "slug": "gitlab-8556658002",
+    "company": {
+      "id": 4,
+      "name": "GitLab",
+      "slug": "gitlab",
+      "logo_url": null,
+      "industry": "DevOps & Software"
+    },
+    "location": [
+      "Remote",
+      "Bangalore"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Remote",
+    "salary_min": 1000000,
+    "salary_max": 1600000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Java",
+      "Python",
+      "Data Structures",
+      "Algorithms",
+      "REST APIs",
+      "Docker",
+      "AWS"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://job-boards.greenhouse.io/gitlab/jobs/8556658002",
+    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8556658002",
+    "posted_at": "2026-07-12T19:39:43.147666+00:00",
+    "deadline": "2026-10-25T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-12T19:39:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from GitLab's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from GitLab's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at GitLab report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "The open-source DevSecOps platform delivered as a single application. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Good",
+    "rating_reason": "Direct hiring opening on GitLab's official portal with clear growth trajectory.",
+    "view_count": 893
+  },
+  {
+    "id": 26,
+    "title": "Account Development Representative",
+    "slug": "mongodb-7311234",
+    "company": {
+      "id": 6,
+      "name": "MongoDB",
+      "slug": "mongodb",
+      "logo_url": null,
+      "industry": "Database & Cloud"
+    },
+    "location": [
+      "Toronto"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 1200000,
+    "salary_max": 1400000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://www.mongodb.com/careers/job/?gh_jid=7311234",
+    "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7311234",
+    "posted_at": "2026-07-11T04:11:43.147666+00:00",
+    "deadline": "2026-09-29T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-11T04:11:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from MongoDB's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from MongoDB's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at MongoDB report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "The leading modern developer data platform built on flexible document models. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Excellent",
+    "rating_reason": "Direct hiring opening on MongoDB's official portal with clear growth trajectory.",
+    "view_count": 2240
+  },
+  {
+    "id": 11,
+    "title": "Account Executive, FedCiv",
+    "slug": "cloudflare-7695702",
+    "company": {
+      "id": 3,
+      "name": "Cloudflare",
+      "slug": "cloudflare",
+      "logo_url": null,
+      "industry": "Cloud & Cybersecurity"
+    },
+    "location": [
+      "Hybrid"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 800000,
+    "salary_max": 1400000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://boards.greenhouse.io/cloudflare/jobs/7695702?gh_jid=7695702",
+    "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/7695702?gh_jid=7695702",
+    "posted_at": "2026-07-10T18:03:43.147666+00:00",
+    "deadline": "2026-10-24T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-10T18:03:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Cloudflare's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Cloudflare's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Cloudflare report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Cloudflare protects and accelerates millions of web properties across the globe. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Good",
+    "rating_reason": "Direct hiring opening on Cloudflare's official portal with clear growth trajectory.",
+    "view_count": 1015
+  },
+  {
+    "id": 2,
+    "title": "Account Development Representative",
+    "slug": "postman-7979886003",
+    "company": {
+      "id": 1,
+      "name": "Postman",
+      "slug": "postman",
+      "logo_url": null,
+      "industry": "Developer Tools & API"
+    },
+    "location": [
+      "New York",
+      "New York",
+      "United States"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 1200000,
+    "salary_max": 1800000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://job-boards.greenhouse.io/postman/jobs/7979886003",
+    "apply_url": "https://job-boards.greenhouse.io/postman/jobs/7979886003",
+    "posted_at": "2026-07-10T12:18:43.147666+00:00",
+    "deadline": "2026-10-14T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-10T12:18:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Postman's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Postman's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Postman report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Postman is the leading API platform used by over 30 million developers worldwide. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Excellent",
+    "rating_reason": "Direct hiring opening on Postman's official portal with clear growth trajectory.",
+    "view_count": 1914
+  },
+  {
+    "id": 30,
+    "title": "Account Development Representative - English Speaking",
+    "slug": "mongodb-8079914",
+    "company": {
+      "id": 6,
+      "name": "MongoDB",
+      "slug": "mongodb",
+      "logo_url": null,
+      "industry": "Database & Cloud"
+    },
+    "location": [
+      "Kuala Lumpur"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 800000,
+    "salary_max": 1400000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://www.mongodb.com/careers/job/?gh_jid=8079914",
+    "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8079914",
+    "posted_at": "2026-07-07T14:42:43.147666+00:00",
+    "deadline": "2026-10-02T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-07T14:42:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from MongoDB's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from MongoDB's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at MongoDB report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "The leading modern developer data platform built on flexible document models. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Good",
+    "rating_reason": "Direct hiring opening on MongoDB's official portal with clear growth trajectory.",
+    "view_count": 905
+  },
+  {
+    "id": 6,
+    "title": "Associate - Content (Digest)",
+    "slug": "groww-4880153101",
+    "company": {
+      "id": 2,
+      "name": "Groww",
+      "slug": "groww",
+      "logo_url": null,
+      "industry": "Fintech & Investing"
+    },
+    "location": [
+      "Bengaluru-VTP",
+      "India"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 800000,
+    "salary_max": 1400000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://job-boards.eu.greenhouse.io/groww/jobs/4880153101",
+    "apply_url": "https://job-boards.eu.greenhouse.io/groww/jobs/4880153101",
+    "posted_at": "2026-07-07T02:59:43.147666+00:00",
+    "deadline": "2026-10-14T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-07T02:59:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Groww's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Groww's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Groww report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Groww is India's fastest growing financial services and investment platform. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Good",
+    "rating_reason": "Direct hiring opening on Groww's official portal with clear growth trajectory.",
+    "view_count": 1941
+  },
+  {
+    "id": 35,
+    "title": "Deal Desk Analyst",
+    "slug": "druva-8742718002",
+    "company": {
+      "id": 7,
+      "name": "Druva",
+      "slug": "druva",
+      "logo_url": null,
+      "industry": "Cloud Data Protection"
+    },
+    "location": [
+      "Santa Clara",
+      "CA"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 1800000,
+    "salary_max": 2400000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "SQL",
+      "Python",
+      "ETL",
+      "Data Pipelines",
+      "PostgreSQL",
+      "Data Warehousing",
+      "Tableau"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://www.druva.com/why-druva/explore/careers/jobs/8742718002/?gh_jid=8742718002",
+    "apply_url": "https://www.druva.com/why-druva/explore/careers/jobs/8742718002/?gh_jid=8742718002",
+    "posted_at": "2026-07-05T06:37:43.147666+00:00",
+    "deadline": "2026-10-16T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-05T06:37:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Druva's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Druva's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Druva report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "SaaS platform for data resiliency, protecting enterprise data across endpoints and clouds. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Excellent",
+    "rating_reason": "Direct hiring opening on Druva's official portal with clear growth trajectory.",
+    "view_count": 2097
+  },
+  {
+    "id": 28,
+    "title": "Account Development Representative",
+    "slug": "mongodb-8081378",
+    "company": {
+      "id": 6,
+      "name": "MongoDB",
+      "slug": "mongodb",
+      "logo_url": null,
+      "industry": "Database & Cloud"
+    },
+    "location": [
+      "Dublin",
+      "Ireland"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 1500000,
+    "salary_max": 1700000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://www.mongodb.com/careers/job/?gh_jid=8081378",
+    "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8081378",
+    "posted_at": "2026-07-05T04:31:43.147666+00:00",
+    "deadline": "2026-10-02T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-05T04:31:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from MongoDB's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from MongoDB's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at MongoDB report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "The leading modern developer data platform built on flexible document models. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Excellent",
+    "rating_reason": "Direct hiring opening on MongoDB's official portal with clear growth trajectory.",
+    "view_count": 3409
+  },
+  {
+    "id": 38,
+    "title": "Business Development Manager",
+    "slug": "thoughtworks-7978633",
+    "company": {
+      "id": 8,
+      "name": "Thoughtworks",
+      "slug": "thoughtworks",
+      "logo_url": null,
+      "industry": "Software Consultancy"
+    },
+    "location": [
+      "Singapore",
+      "Singapore"
+    ],
+    "primary_city": "Bengaluru",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "work_mode": "Hybrid",
+    "salary_min": 1000000,
+    "salary_max": 1200000,
+    "salary_currency": "INR",
+    "salary_period": "annual",
+    "experience_min": 0,
+    "experience_max": 2,
+    "education": "Bachelor's / Master's degree in Engineering, Computer Science or related quantitative field",
+    "eligible_batches": [
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "min_cgpa": 6.5,
+    "min_percentage": 65,
+    "backlog_allowed": false,
+    "skills_required": [
+      "Problem Solving",
+      "Git",
+      "System Fundamentals",
+      "Communication",
+      "Analytical Skills",
+      "Project Management"
+    ],
+    "skills_preferred": [
+      "Cloud Architecture",
+      "Distributed Systems",
+      "CI/CD"
+    ],
+    "job_url": "https://www.thoughtworks.com/careers/jobs/7978633?gh_jid=7978633",
+    "apply_url": "https://www.thoughtworks.com/careers/jobs/7978633?gh_jid=7978633",
+    "posted_at": "2026-07-02T19:33:43.147666+00:00",
+    "deadline": "2026-10-11T08:25:43.147666+00:00",
+    "first_seen_at": "2026-07-02T19:33:43.147666+00:00",
+    "last_seen_at": "2026-09-10T08:25:43.147666+00:00",
+    "status": "active",
+    "description_html": "<p>Official job opportunity verified from Thoughtworks's career portal. Apply directly on their official ATS.</p>",
+    "description_text": "Official job opportunity verified from Thoughtworks's career portal. Apply directly on their official ATS.",
+    "selection_process": {
+      "rounds": [
+        {
+          "name": "Round 1: Online Assessment",
+          "description": "Quantitative aptitude and core coding challenge."
+        },
+        {
+          "name": "Round 2: Technical Interview",
+          "description": "Core computer science concepts, data structures, and problem-solving."
+        },
+        {
+          "name": "Round 3: System & Architecture / Managerial",
+          "description": "Project discussion, design patterns, and engineering culture."
+        },
+        {
+          "name": "Round 4: HR & Values Round",
+          "description": "Culture alignment, compensation review, and role expectations."
+        }
+      ]
+    },
+    "interview_experience": "Candidates interviewing at Thoughtworks report an organized and transparent hiring process. The technical interview emphasizes problem-solving clarity, edge-case analysis, and modular coding standards.",
+    "work_culture_summary": "Global technology consultancy integrating strategy, design and software engineering. Offers a collaborative engineering environment with structured mentorship, flexible schedules, and competitive compensation.",
+    "study_materials": [
+      {
+        "title": "Striver's A2Z DSA Sheet (TakeUForward)",
+        "description": "The most widely recommended step-by-step DSA preparation roadmap for top tech product companies.",
+        "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+      },
+      {
+        "title": "LeetCode Top SQL 50 Study Plan",
+        "description": "Official curated SQL challenges covering joins, aggregations, window functions, and subqueries.",
+        "url": "https://leetcode.com/studyplan/top-sql-50/"
+      },
+      {
+        "title": "IndiaBIX Quantitative Aptitude & Reasoning",
+        "description": "Essential practice problems for clearing online assessment (Round 1) aptitude tests.",
+        "url": "https://www.indiabix.com/aptitude/questions-and-answers/"
+      },
+      {
+        "title": "GeeksforGeeks SDE Interview Experience Archive",
+        "description": "Authentic candidate interview transcripts, coding rounds, and technical questions.",
+        "url": "https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/"
+      }
+    ],
+    "jobpulse_rating": "Good",
+    "rating_reason": "Direct hiring opening on Thoughtworks's official portal with clear growth trajectory.",
+    "view_count": 3317
+  }
+]
