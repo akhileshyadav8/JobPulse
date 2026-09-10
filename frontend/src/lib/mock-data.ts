@@ -116,7 +116,16 @@ export const mockJobs = (realJobsJson as any[])
     const postTime = new Date(j.posted_at).getTime();
     return (now - postTime) <= THIRTY_DAYS_MS;
   })
-  .sort((a, b) => new Date(b.posted_at).getTime() - new Date(a.posted_at).getTime());
+  .sort((a, b) => new Date(b.posted_at).getTime() - new Date(a.posted_at).getTime())
+  .map(j => ({
+    ...j,
+    description_html: "",
+    description_text: j.description_text ? j.description_text.slice(0, 160) : ""
+  }));
+
+export function getMockJobBySlug(slug: string) {
+  return (realJobsJson as any[]).find(j => j.slug === slug);
+}
 
 export const mockStats = {
   total_jobs: 1746,

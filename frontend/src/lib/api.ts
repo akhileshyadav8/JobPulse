@@ -1,4 +1,4 @@
-import { mockJobs, mockCompanies, mockStats } from './mock-data';
+import { mockJobs, mockCompanies, mockStats, getMockJobBySlug } from './mock-data';
 
 const API_BASE = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000/api/v1';
 
@@ -107,7 +107,7 @@ export async function getJobBySlug(slug: string): Promise<Job> {
     return res.json();
   } catch (error) {
     console.warn('API getJobBySlug failed, using mock data');
-    const job = mockJobs.find(j => j.slug === slug);
+    const job = getMockJobBySlug(slug);
     if (!job) throw new Error('Job not found in mock data either');
     return job;
   }
