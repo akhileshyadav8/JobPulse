@@ -123,7 +123,7 @@ job_id = 1
 # We will generate 900+ jobs across companies and roles to match Jobdexo's catalog
 target_total = 920
 
-# Spread minutes ago from 10 minutes to 89 days (within last 3 months)
+# Spread minutes ago from 10 minutes to 29 days (within last 1 month)
 # Lots of very fresh jobs (minutes & hours ago), down to older ones
 while len(generated_jobs) < target_total:
     comp = random.choice(COMPANIES)
@@ -151,8 +151,8 @@ while len(generated_jobs) < target_total:
     # Determine recency:
     # First 30 jobs: 10 mins to 6 hours ago!
     # Next 100 jobs: 6 hours to 48 hours ago!
-    # Next 300 jobs: 2 days to 30 days ago!
-    # Rest: 30 days to 88 days ago!
+    # Next 300 jobs: 2 days to 14 days ago!
+    # Rest: 14 days to 29 days ago (within 1 month)!
     idx = len(generated_jobs)
     if idx < 15:
         mins_ago = random.randint(10, 180) # 10m to 3h ago
@@ -163,7 +163,7 @@ while len(generated_jobs) < target_total:
     elif idx < 450:
         mins_ago = random.randint(2880, 20160) # 2 days to 14 days ago
     else:
-        mins_ago = random.randint(20160, 126720) # 14 to 88 days ago
+        mins_ago = random.randint(20160, 41760) # 14 to 29 days ago (under 30 days / 1 month)
 
     posted_dt = now - timedelta(minutes=mins_ago)
     

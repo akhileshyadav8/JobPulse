@@ -59,9 +59,9 @@ for comp in COMPANIES:
             for idx, j in enumerate(selected):
                 loc_name = j.get('location', {}).get('name', '') or comp['hq']
                 
-                # Assign recency within last 3 months
-                # Stagger them from minutes ago to a few weeks ago
-                minutes_ago = random.randint(15, 60 * 24 * 70) # between 15 mins and 70 days (under 90 days / 3 months)
+                # Assign recency within last 1 month (under 30 days)
+                # Stagger them from minutes ago to up to 28 days ago
+                minutes_ago = random.randint(15, 60 * 24 * 28) # between 15 mins and 28 days (within last 1 month)
                 posted_time = now - timedelta(minutes=minutes_ago)
                 deadline_time = now + timedelta(days=random.randint(15, 45))
                 

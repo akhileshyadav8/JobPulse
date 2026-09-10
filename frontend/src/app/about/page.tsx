@@ -64,7 +64,7 @@ export default function AboutPage() {
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-teal-600 dark:text-teal-400 mt-0.5">•</span>
-                  <span>Strict freshness window: only active postings from the last 3 months.</span>
+                  <span>Strict freshness window: only active postings from the last 1 month.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-teal-600 dark:text-teal-400 mt-0.5">•</span>

@@ -154,16 +154,16 @@ export function InteractiveJobFeed({ initialJobs, stats }: InteractiveJobFeedPro
     );
   }, [searchQuery, selectedCountry, selectedState, selectedCity, selectedCompany, sortBy, activeFilters]);
 
-  // Real-time filtering engine with strict 3-month recency and sorting
+  // Real-time filtering engine with strict 1-month recency and sorting
   const filteredAndSortedJobs = useMemo(() => {
     const now = new Date().getTime();
-    const NINETY_DAYS_MS = 90 * 24 * 60 * 60 * 1000;
+    const THIRTY_DAYS_MS = 30 * 24 * 60 * 60 * 1000;
 
     // 1. Filter jobs
     const filtered = initialJobs.filter(job => {
-      // Recency check: only jobs from last 3 months
+      // Recency check: only jobs from last 1 month
       const postTime = new Date(job.posted_at || job.first_seen_at).getTime();
-      if ((now - postTime) > NINETY_DAYS_MS) {
+      if ((now - postTime) > THIRTY_DAYS_MS) {
         return false;
       }
 
@@ -381,7 +381,7 @@ export function InteractiveJobFeed({ initialJobs, stats }: InteractiveJobFeedPro
             <span>•</span>
             <span className="bg-white/5 px-3 py-1 rounded-full border border-white/10 flex items-center gap-1">
               <Clock className="w-3.5 h-3.5 text-teal-400" />
-              Last 3 months only • Newest on top
+              Last 1 month only • Newest on top
             </span>
           </div>
         </div>
@@ -504,7 +504,7 @@ export function InteractiveJobFeed({ initialJobs, stats }: InteractiveJobFeedPro
                 onChange={(e) => setSortBy(e.target.value as any)}
                 className="w-full bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl px-2.5 py-2 text-xs md:text-sm text-slate-900 dark:text-slate-100 font-medium focus:outline-none focus:ring-2 focus:ring-teal-500 cursor-pointer shadow-sm"
               >
-                <option value="newest">🔥 Newest First (Last 3 Months)</option>
+                <option value="newest">🔥 Newest First (Last 1 Month)</option>
                 <option value="salary">💰 Highest Salary</option>
                 <option value="fresher">🎯 Fresher Friendly (0–1 Yrs)</option>
               </select>
@@ -584,7 +584,7 @@ export function InteractiveJobFeed({ initialJobs, stats }: InteractiveJobFeedPro
           <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-2 mb-6">
             <div>
               <h2 className="text-2xl font-bold text-slate-900 dark:text-white flex items-center gap-2">
-                <span>Latest Openings (Last 3 Months)</span>
+                <span>Latest Openings (Last 1 Month)</span>
                 <span className="text-xs bg-emerald-100 dark:bg-emerald-950/40 text-emerald-700 dark:text-emerald-400 px-2.5 py-0.5 rounded-full font-semibold border border-emerald-200 dark:border-emerald-800">
                   Newest On Top
                 </span>
@@ -612,7 +612,7 @@ export function InteractiveJobFeed({ initialJobs, stats }: InteractiveJobFeedPro
                 No active postings found for this selection
               </h3>
               <p className="text-slate-500 max-w-md mx-auto mb-6 text-sm">
-                No openings in &quot;{selectedCity !== 'All' ? selectedCity : selectedState !== 'All' ? selectedState : selectedCountry !== 'All' ? selectedCountry : searchQuery}&quot; within the last 3 months matching your filters.
+                No openings in &quot;{selectedCity !== 'All' ? selectedCity : selectedState !== 'All' ? selectedState : selectedCountry !== 'All' ? selectedCountry : searchQuery}&quot; within the last 1 month matching your filters.
               </p>
               <Button onClick={resetFilters} className="bg-teal-600 hover:bg-teal-700 text-white font-semibold">
                 <RotateCcw className="w-4 h-4 mr-2" />

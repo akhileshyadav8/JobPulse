@@ -107,14 +107,14 @@ export const mockCompanies = [
   }
 ];
 
-// Ensure jobs are within last 3 months (90 days) and sorted by posted_at descending
+// Ensure jobs are within last 1 month (30 days) and sorted by posted_at descending
 const now = new Date().getTime();
-const NINETY_DAYS_MS = 90 * 24 * 60 * 60 * 1000;
+const THIRTY_DAYS_MS = 30 * 24 * 60 * 60 * 1000;
 
 export const mockJobs = (realJobsJson as any[])
   .filter(j => {
     const postTime = new Date(j.posted_at).getTime();
-    return (now - postTime) <= NINETY_DAYS_MS;
+    return (now - postTime) <= THIRTY_DAYS_MS;
   })
   .sort((a, b) => new Date(b.posted_at).getTime() - new Date(a.posted_at).getTime());
 
