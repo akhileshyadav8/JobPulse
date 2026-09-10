@@ -1,10 +1,10 @@
 import Link from "next/link";
-import { MapPin, Clock, Briefcase, GraduationCap, Building2 } from "lucide-react";
+import { MapPin, Clock, Briefcase, GraduationCap, Building2, Calendar } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardFooter } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Job } from "@/lib/api";
-import { formatSalary, formatRelativeTime, getWorkModeColor, getEmploymentTypeColor } from "@/lib/utils";
+import { formatSalary, formatRelativeTime, formatDate, getWorkModeColor, getEmploymentTypeColor } from "@/lib/utils";
 
 interface JobCardProps {
   job: Job;
@@ -55,9 +55,16 @@ export function JobCard({ job }: JobCardProps) {
         </div>
 
         {job.eligible_batches && job.eligible_batches.length > 0 && (
-          <div className="flex items-center gap-2 mb-4 text-xs text-slate-500 dark:text-slate-400">
+          <div className="flex items-center gap-2 mb-2 text-xs text-slate-500 dark:text-slate-400">
             <GraduationCap className="w-4 h-4" />
             <span>Batch: {job.eligible_batches.join(', ')}</span>
+          </div>
+        )}
+
+        {job.deadline && (
+          <div className="flex items-center gap-1.5 mb-4 text-xs font-semibold text-amber-700 dark:text-amber-300 bg-amber-50 dark:bg-amber-950/40 px-2.5 py-1 rounded-md border border-amber-200 dark:border-amber-800/60 w-fit">
+            <Calendar className="w-3.5 h-3.5 text-amber-600 dark:text-amber-400" />
+            <span>Deadline: {formatDate(job.deadline)}</span>
           </div>
         )}
 

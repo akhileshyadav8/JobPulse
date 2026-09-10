@@ -49,7 +49,11 @@ export function InteractiveJobFeed({ initialJobs, stats }: InteractiveJobFeedPro
     if (selectedCountry === "All" || selectedCountry === "Remote") {
       return [];
     }
-    return COUNTRY_STATES[selectedCountry] || [
+    const states = COUNTRY_STATES[selectedCountry];
+    if (Array.isArray(states) && states.length > 0) {
+      return states;
+    }
+    return [
       { label: `📍 All Regions in ${selectedCountry}`, value: "All" }
     ];
   }, [selectedCountry]);
@@ -61,16 +65,46 @@ export function InteractiveJobFeed({ initialJobs, stats }: InteractiveJobFeedPro
     }
 
     const countryCities = STATE_CITIES[selectedCountry];
-    if (!countryCities) {
-      return [{ label: `📍 All Cities in ${selectedCountry}`, value: "All" }];
+    let cities: { label: string; value: string }[] = [];
+
+    if (countryCities) {
+      if (selectedState !== "All" && countryCities[selectedState]) {
+        cities = countryCities[selectedState];
+      } else if (countryCities["All"]) {
+        cities = countryCities["All"];
+      }
     }
 
-    if (selectedState === "All" || !countryCities[selectedState]) {
-      return countryCities["All"] || [{ label: `📍 All Cities in ${selectedCountry}`, value: "All" }];
+    // Fallback: If no predefined cities or empty, extract from initialJobs matching this country
+    if (!cities || cities.length === 0) {
+      const extractedSet = new Set<string>();
+      const countryLower = selectedCountry.toLowerCase();
+      (initialJobs || []).forEach(job => {
+        if (job.location && Array.isArray(job.location)) {
+          job.location.forEach(loc => {
+            if (loc.toLowerCase().includes(countryLower)) {
+              const parts = loc.split(",").map(p => p.trim());
+              if (parts.length > 1 && parts[0]) {
+                extractedSet.add(parts[0]);
+              } else if (parts.length === 1 && parts[0] && parts[0].toLowerCase() !== countryLower) {
+                extractedSet.add(parts[0]);
+              }
+            }
+          });
+        }
+      });
+
+      cities = [
+        { label: `📍 All Cities in ${selectedCountry}`, value: "All" },
+        ...Array.from(extractedSet).map(cityName => ({
+          label: cityName,
+          value: cityName
+        }))
+      ];
     }
 
-    return countryCities[selectedState] || countryCities["All"];
-  }, [selectedCountry, selectedState]);
+    return (cities || []).filter(c => Boolean(c && typeof c.label === "string" && typeof c.value === "string"));
+  }, [selectedCountry, selectedState, initialJobs]);
 
   const handleCountryChange = (country: string) => {
     setSelectedCountry(country);
@@ -371,7 +405,7 @@ export function InteractiveJobFeed({ initialJobs, stats }: InteractiveJobFeedPro
                 {selectedCountry === "All" ? (
                   <option value="All">← Pick Country First</option>
                 ) : (
-                  availableStates.map(s => (
+                  (availableStates || []).filter(s => Boolean(s?.value)).map(s => (
                     <option key={s.value} value={s.value}>
                       {s.label}
                     </option>
@@ -402,7 +436,7 @@ export function InteractiveJobFeed({ initialJobs, stats }: InteractiveJobFeedPro
                 {selectedCountry === "All" ? (
                   <option value="All">← Pick Country First</option>
                 ) : (
-                  availableCities.map(c => (
+                  (availableCities || []).filter(c => Boolean(c?.value)).map(c => (
                     <option key={c.value} value={c.value}>
                       {c.label}
                     </option>
@@ -426,7 +460,7 @@ export function InteractiveJobFeed({ initialJobs, stats }: InteractiveJobFeedPro
                 className="w-full bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl px-2.5 py-2 text-xs md:text-sm text-slate-900 dark:text-slate-100 font-medium focus:outline-none focus:ring-2 focus:ring-teal-500 cursor-pointer shadow-sm"
               >
                 <option value="All">🏢 All Companies</option>
-                {availableCompanies.map(comp => (
+                {(availableCompanies || []).map(comp => (
                   <option key={comp.slug} value={comp.slug}>
                     {comp.name}
                   </option>
